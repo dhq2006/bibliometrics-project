@@ -1,0 +1,30 @@
+# 研究对象：生成式AI（AIGC）相关核心技术同义词
+object:
+  - "generative AI"
+  - "AIGC"
+  - "generative artificial intelligence"
+  - "generative model"
+  - "large language model"
+  - "LLM"
+  - "GPT"
+  - "diffusion model"
+  - "GAN"
+  - "generative adversarial network"
+  - "text to image"
+  - "text to video"
+  - "AI generation"
+  - "generative deep learning"
+  - "foundation model"
+
+# 应用场景：科学研究相关同义词
+context:
+  - "scientific research"
+  - "academic research"
+  - "scientific experiment"
+  - "research design"
+  - "data analysis"
+  - "scientific writing"
+  - "experimental simulation"
+  - "scholarly communication"
+  - "scientific discovery"
+  - "research innovation"
