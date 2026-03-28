@@ -5,8 +5,8 @@ time_window: "2015-01-01 to 2025-12-31"
 document_types: ["Article", "Review"]
 languages: ["English"]
 wos_query: |
-  TS=("artificial intelligence assisted diagnosis" OR "AI-assisted diagnosis" OR "intelligent diagnosis" OR "machine learning diagnosis" OR "deep learning diagnosis" OR "computer-aided diagnosis" OR "CAD" OR "medical image AI diagnosis" OR "diagnostic artificial intelligence" OR "AI-driven clinical diagnosis" OR "smart medical diagnosis")
-  AND TS=("medicine" OR "clinical" OR "disease" OR "diagnostic model" OR "clinical decision support" OR "medical diagnosis" OR "patient diagnosis" OR "clinical practice" OR "medical decision making" OR "healthcare diagnosis")
+  TS=("generative AI" OR "AIGC" OR "generative artificial intelligence" OR "generative model" OR "large language model" OR "LLM" OR "GPT" OR "diffusion model" OR "GAN" OR "generative adversarial network" OR "text to image" OR "text to video" OR "AI generation" OR "generative deep learning" OR "foundation model")
+  AND TS=("scientific research" OR "academic research" OR "scientific experiment" OR "research design" OR "data analysis" OR "scientific writing" OR "experimental simulation" OR "scholarly communication" OR "scientific discovery" OR "research innovation")
   AND PY=2015-2025
   AND BT=("Article" OR "Review")
   AND LA=English
