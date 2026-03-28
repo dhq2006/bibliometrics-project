@@ -8,5 +8,5 @@ wos_query: |
   TS=("generative AI" OR "AIGC" OR "generative artificial intelligence" OR "generative model" OR "large language model" OR "LLM" OR "GPT" OR "diffusion model" OR "GAN" OR "generative adversarial network" OR "text to image" OR "text to video" OR "AI generation" OR "generative deep learning" OR "foundation model")
   AND TS=("scientific research" OR "academic research" OR "scientific experiment" OR "research design" OR "data analysis" OR "scientific writing" OR "experimental simulation" OR "scholarly communication" OR "scientific discovery" OR "research innovation")
   AND PY=2015-2025
-  AND BT=("Article" OR "Review")
+  AND DT=("Article" OR "Review")
   AND LA=English
