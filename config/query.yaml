@@ -1,1 +1,12 @@
-
+version: "v0.1"
+date: "2026-03-28"
+database: "Web of Science Core Collection"
+time_window: "2015-01-01 to 2025-12-31"
+document_types: ["Article", "Review"]
+languages: ["English"]
+wos_query: |
+  TS=("artificial intelligence assisted diagnosis" OR "AI-assisted diagnosis" OR "intelligent diagnosis" OR "machine learning diagnosis" OR "deep learning diagnosis" OR "computer-aided diagnosis" OR "CAD" OR "medical image AI diagnosis" OR "diagnostic artificial intelligence" OR "AI-driven clinical diagnosis" OR "smart medical diagnosis")
+  AND TS=("medicine" OR "clinical" OR "disease" OR "diagnostic model" OR "clinical decision support" OR "medical diagnosis" OR "patient diagnosis" OR "clinical practice" OR "medical decision making" OR "healthcare diagnosis")
+  AND PY=2015-2025
+  AND BT=("Article" OR "Review")
+  AND LA=English
