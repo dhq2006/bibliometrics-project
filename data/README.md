@@ -4,7 +4,7 @@ Web of Science Core Collection
 ## 导出基础信息
 - 导出时间：【2026-03-28】
 - 检索式：来自本仓库config/query.yaml
-- 文献数量：共【500】条
+- 文献数量：共【198】条
 - 时间范围：2015-01-01 至 2025-12-31
 - 文献类型：仅Article、Review
 - 语言：仅English
