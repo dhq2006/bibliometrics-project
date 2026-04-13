@@ -5,8 +5,8 @@ time_window: "2015-01-01 to 2025-12-31"
 document_types: ["Article", "Review"]
 languages: ["English"]
 wos_query: |
-  TS=("generative AI" OR "AIGC" OR "generative artificial intelligence" OR "generative model" OR "large language model" OR "LLM" OR "GPT" OR "diffusion model" OR "GAN" OR "generative adversarial network" OR "text to image" OR "text to video" OR "AI generation" OR "generative deep learning" OR "foundation model")
-  AND TS=("scientific research" OR "academic research" OR "scientific experiment" OR "research design" OR "data analysis" OR "scientific writing" OR "experimental simulation" OR "scholarly communication" OR "scientific discovery" OR "research innovation")
+  TS=("generative AI" OR "AIGC" OR "generative artificial intelligence" OR "generative model" OR "large language model" OR "LLM" OR "GPT" OR "diffusion model" OR "GAN" OR "generative adversarial network" OR "foundation model")
+  AND TS=("humanities" OR "social sciences" OR "digital humanities" OR "humanities computing" OR "social science research" OR "humanities research" OR "cultural heritage" OR "historical research" OR "linguistic research" OR "sociological research" OR "economic research" OR "educational research" OR "humanities data analysis" OR "text mining" OR "corpus analysis" OR "scholarly communication in humanities")
   AND PY=2015-2025
   AND DT=("Article" OR "Review")
   AND LA=English
