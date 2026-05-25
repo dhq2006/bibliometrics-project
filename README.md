@@ -61,3 +61,20 @@
 3. 可复现性优化: 确保项目代码、数据与文档的版本化管理，实现研究可复现。
 ​
 4. 汇报准备: 制作学术汇报PPT，准备汇报。
+  
+### 数据说明
+- 原始数据：Web of Science导出 `savedrecs.txt`（692篇）
+- 筛选后数据：274篇（通过UT号筛选，聚焦AIGC+人文社科主题）
+- 格式：WoS原生txt格式、标准CSV格式
+
+### 分析工具
+- 数据处理：Python（pandas）
+- 计量分析：CiteSpace 6.3.2
+- 可视化：CiteSpace
+
+### 文件结构
+- `data/raw/`：原始WoS数据
+- `data/processed/`：清洗后数据
+- `outputs/`：CiteSpace生成的图谱结果
+- `reports/`：过程性分析报告
+- `paper/`：最终作业报告与PPT
