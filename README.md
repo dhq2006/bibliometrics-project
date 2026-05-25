@@ -69,7 +69,7 @@
 
 ### 分析工具
 - 数据处理：Python（pandas）
-- 计量分析：CiteSpace 6.3.2
+- 计量分析：CiteSpace 6.3.R1
 - 可视化：CiteSpace
 
 ### 文件结构
