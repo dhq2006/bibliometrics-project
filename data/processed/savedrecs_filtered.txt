@@ -1,0 +1,3552 @@
+FN Clarivate Analytics Web of Science
+VR 1
+PT J
+AU Liu, JF
+ Ma, XL
+ Wang, LY
+ Pei, L
+AF Liu, Jiangfeng
+ Ma, Xueliang
+ Wang, Lanyu
+ Pei, Lei
+TI How Can Generative Artificial Intelligence Techniques Facilitate
+ Intelligent Research into Ancient Books?
+SO ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE
+OI Wang, Lanyu/0000-0003-3984-8343; 裴, 雷/0000-0003-4754-4112
+SN 1556-4673
+EI 1556-4711
+PD DEC
+PY 2024
+VL 17
+IS 4
+AR 57
+DI 10.1145/3690391
+UT WOS:001392437900002
+ER 
+ 
+PT J
+AU Liu, C
+ Wang, DB
+ Zhao, ZX
+ Hu, D
+ Wu, MC
+ Zhang, H
+ Lin, LT
+ Liu, JF
+ Shen, S
+ Li, B
+ Zhao, LZ
+AF Liu, Chang
+ Wang, Dongbo
+ Zhao, Zhixiao
+ Hu, Die
+ Wu, Mengcheng
+ Zhang, Hai
+ Lin, Li tao
+ Liu, Jiangfeng
+ Shen, Si
+ Li, Bin
+ Zhao, Lianzhen
+TI SikuGPT: A Generative Pre-trained Model for Intelligent Information
+ Processing of Ancient Texts from the Perspective of Digital Humanities
+SO ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE
+RI ; wu, mengcheng/LGY-6010-2024
+OI Lin, Litao/0000-0001-8287-936X; Liu, Chang/0000-0001-9048-4552; zhao,
+ zhixiao/0009-0007-1992-4296
+SN 1556-4673
+EI 1556-4711
+PD DEC
+PY 2024
+VL 17
+IS 4
+AR 53
+DI 10.1145/3676969
+UT WOS:001392453400002
+ER 
+ 
+PT J
+AU Liu, JF
+ Yang, CH
+ Yan, ZP
+ Ma, XL
+ Pei, L
+AF Liu, Jiangfeng
+ Yang, Chunhua
+ Yan, Zhaoping
+ Ma, Xueliang
+ Pei, Lei
+TI Leveraging generative AI through prompt engineering for corpus
+ construction and in-depth intelligent interpretation of ancient texts
+SO DIGITAL SCHOLARSHIP IN THE HUMANITIES
+RI ; zhaoping, yan/AAT-8229-2020
+OI 裴, 雷/0000-0003-4754-4112; 杨, 春花/0009-0004-9826-8052
+SN 2055-7671
+EI 2055-768X
+PD SEP
+PY 2025
+VL 40
+IS 3
+BP 846
+EP 862
+DI 10.1093/llc/fqaf043
+EA 45809
+UT WOS:001517227100001
+ER 
+ 
+PT J
+AU Dianova, VG
+ Schultz, MD
+AF Dianova, Vera G.
+ Schultz, Mario D.
+TI Discussing ChatGPT's implications for industry and higher education: The
+ case for transdisciplinarity and digital humanities
+SO INDUSTRY AND HIGHER EDUCATION
+RI Dianova, Vera G/JNT-4131-2023
+OI Dianova, Vera G/0000-0001-6856-4257; Schultz, Mario
+ D/0000-0002-5622-3188
+SN 0950-4222
+EI 2043-6858
+PD OCT
+PY 2023
+VL 37
+IS 5
+BP 593
+EP 600
+DI 10.1177/09504222231199989
+EA 45170
+UT WOS:001075331300001
+ER 
+ 
+PT J
+AU Zhang, S
+ Xu, J
+ Alvero, AJ
+AF Zhang, Simone
+ Xu, Janet
+ Alvero, A. J.
+TI Generative AI Meets Open-Ended Survey Responses: Research Participant
+ Use of AI and Homogenization
+SO SOCIOLOGICAL METHODS & RESEARCH
+RI ; Alvero, AJ/HZM-5593-2023
+OI Zhang, Simone/0000-0003-0158-1364; Xu, Janet/0000-0003-1610-5408;
+ Alvero, AJ/0000-0003-4642-9788
+SN 0049-1241
+EI 1552-8294
+PD AUG
+PY 2025
+VL 54
+IS 3
+SI SI
+BP 1197
+EP 1242
+DI 10.1177/00491241251327130
+EA 45778
+UT WOS:001483273300001
+ER 
+ 
+PT J
+AU Davidson, T
+ Karell, D
+AF Davidson, Thomas
+ Karell, Daniel
+TI Integrating Generative Artificial Intelligence into Social Science
+ Research: Measurement, Prompting, and Simulation
+SO SOCIOLOGICAL METHODS & RESEARCH
+RI Davidson, Thomas/AAF-8558-2019
+OI Davidson, Thomas/0000-0002-5947-7490
+SN 0049-1241
+EI 1552-8294
+PD AUG
+PY 2025
+VL 54
+IS 3
+SI SI
+BP 775
+EP 793
+DI 10.1177/00491241251339184
+EA 45778
+UT WOS:001483281300001
+ER 
+ 
+PT J
+AU Wang, YD
+ Zhou, YX
+AF Wang, Yidan
+ Zhou, Yixuan
+TI Artificial Intelligence-Driven Interactive Experience for Intangible
+ Cultural Heritage: Sustainable Innovation of Blue Clamp-Resist Dyeing
+SO SUSTAINABILITY
+RI ; WANG, YIDAN/PNH-8579-2026
+OI Zhou, Yixuan/0009-0008-8066-8516;
+EI 2071-1050
+PD FEB
+PY 2025
+VL 17
+IS 3
+AR 898
+DI 10.3390/su17030898
+UT WOS:001419394400001
+ER 
+ 
+PT J
+AU Chen, XJ
+ Li, YY
+ Chen, YH
+ Tang, T
+ Wang, RH
+ Wang, YF
+ Feng, YCJ
+ Chen, W
+ Wang, XS
+AF Chen, Xiaojiao
+ Li, Yueying
+ Chen, Yonghao
+ Tang, Tan
+ Wang, Ruihan
+ Wang, Yifan
+ Feng, Yingchaojie
+ Chen, Wei
+ Wang, Xiaosong
+TI ACPAS: an expert-assistance system for authenticating ancient Chinese
+ paintings via LLM-based agents
+SO NPJ HERITAGE SCIENCE
+RI Wang, Ruihan/ADS-9329-2022; WANG, YIFAN/AAW-1973-2021; Chen,
+ Xiaojiao/OCL-0249-2025
+OI Li, Yueying/0009-0005-6090-5092
+EI 3059-3220
+PD 46306
+PY 2025
+VL 13
+IS 1
+AR 512
+DI 10.1038/s40494-025-02093-z
+UT WOS:001590929100004
+ER 
+ 
+PT J
+AU Schwartz, D
+ Lanphier, E
+AF Schwartz, David
+ Lanphier, Elizabeth
+TI The new narrative medicine: ethical implications of artificial
+ intelligence on healthcare narratives
+SO MONASH BIOETHICS REVIEW
+RI ; Lanphier, Elizabeth/AAY-8566-2020
+OI , David Lerner Schwartz/0009-0005-9309-2112;
+SN 1321-2753
+EI 1836-6716
+PD 2025 JUN 8
+PY 2025
+DI 10.1007/s40592-025-00256-z
+EA 45809
+UT WOS:001503653600001
+PM 40483669
+ER 
+ 
+PT J
+AU Sangamuang, S
+ Ariya, P
+ Intawong, K
+ Khanchai, S
+ Puritat, K
+AF Sangamuang, Sumalee
+ Ariya, Pakinee
+ Intawong, Kannikar
+ Khanchai, Songpon
+ Puritat, Kitti
+TI Integrating generative AI and the metaverse for cultural heritage: a
+ case study on the preservation of Lamphun Brocade Fabric
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+RI กิด, กิตติ/AAQ-7544-2021; Sangamuang, Sumalee/JFS-0145-2023
+EI 2662-9992
+PD 46372
+PY 2025
+VL 12
+IS 1
+AR 1974
+DI 10.1057/s41599-025-06237-1
+UT WOS:001645745300001
+ER 
+ 
+PT J
+AU DaCosta, B
+AF DaCosta, Boaventura
+TI Speaking with the Past: Constructing AI-Generated Historical Characters
+ for Cultural Heritage and Learning
+SO HERITAGE
+RI DaCosta, Boaventura/Q-7493-2017
+OI DaCosta, Boaventura/0000-0003-0692-2172
+SN 2571-9408
+PD 46283
+PY 2025
+VL 8
+IS 9
+AR 387
+DI 10.3390/heritage8090387
+UT WOS:001580019300001
+ER 
+ 
+PT J
+AU Pandey, AK
+ Roy, SS
+AF Kumar Pandey, Abhishek
+ Sekhar Roy, Sanjiban
+TI Extractive Question Answering Over Ancient Scriptures Texts Using
+ Generative AI and Natural Language Processing Techniques
+SO IEEE ACCESS
+RI Pandey, Abhishek Kumar/AEA-4975-2022
+OI Pandey, Abhishek Kumar/0000-0003-3428-2125
+SN 2169-3536
+PY 2024
+VL 12
+BP 101197
+EP 101209
+DI 10.1109/ACCESS.2024.3431282
+UT WOS:001278997600001
+ER 
+ 
+PT J
+AU Lozic, E
+ Stular, B
+AF Lozic, Edisa
+ Stular, Benjamin
+TI Fluent but Not Factual: A Comparative Analysis of ChatGPT and Other AI
+ Chatbots' Proficiency and Originality in Scientific Writing for
+ Humanities
+SO FUTURE INTERNET
+RI Štular, Benjamin/AAE-6455-2020
+OI Štular, Benjamin/0000-0003-1474-7183; Lozić, Edisa/0000-0002-6687-9906
+SN 1999-5903
+PD OCT
+PY 2023
+VL 15
+IS 10
+AR 336
+DI 10.3390/fi15100336
+UT WOS:001095748700001
+ER 
+ 
+PT J
+AU Thompson, K
+ Corrin, L
+ Lodge, JM
+AF Thompson, Kate
+ Corrin, Linda
+ Lodge, Jason M.
+TI AI in tertiary education: progress on research and practice
+SO AUSTRALASIAN JOURNAL OF EDUCATIONAL TECHNOLOGY
+RI Lodge, Jason/F-8079-2018; Corrin, Linda/AAD-8545-2019
+OI Lodge, Jason/0000-0001-6330-6160; Thompson, Kate/0000-0003-0738-0205;
+ Corrin, Linda/0000-0002-1593-3271
+SN 1449-3098
+EI 1449-5554
+PY 2023
+VL 39
+IS 5
+DI 10.14742/ajet.9251
+UT WOS:001132966400006
+ER 
+ 
+PT J
+AU Chun, J
+ Elkins, K
+AF Chun, Jon
+ Elkins, Katherine
+TI THE CRISIS OF ARTIFICIAL INTELLIGENCE: A NEW DIGITAL HUMANITIES
+ CURRICULUM FOR HUMAN-CENTRED AI
+SO INTERNATIONAL JOURNAL OF HUMANITIES AND ARTS COMPUTING-A JOURNAL OF
+ DIGITAL HUMANITIES
+RI Elkins, Katherine/LFS-2844-2024
+OI Elkins, Katherine/0000-0001-9887-4854; Chun, Jon/0000-0002-5315-6784
+SN 1753-8548
+EI 1755-1706
+PD OCT
+PY 2023
+VL 17
+IS 2
+SI SI
+BP 147
+EP 167
+DI 10.3366/ijhac.2023.0310
+UT WOS:001087046600008
+ER 
+ 
+PT J
+AU O'Halloran, K
+AF O'Halloran, Kieran
+TI Digital assemblages with AI for creative interpretation of short stories
+SO DIGITAL SCHOLARSHIP IN THE HUMANITIES
+OI O'Halloran, Kieran/0000-0003-3424-994X
+SN 2055-7671
+EI 2055-768X
+PD 46087
+PY 2024
+VL 39
+IS 2
+BP 657
+EP 689
+DI 10.1093/llc/fqad050
+EA 45352
+UT WOS:001179470400001
+ER 
+ 
+PT J
+AU Boelaert, J
+ Coavoux, S
+ Ollion, E
+ Petev, I
+ Präg, P
+AF Boelaert, Julien
+ Coavoux, Samuel
+ Ollion, Etienne
+ Petev, Ivaylo
+ Prag, Patrick
+TI Machine Bias. How Do Generative Language Models Answer Opinion Polls?
+SO SOCIOLOGICAL METHODS & RESEARCH
+RI Petev, Ivaylo/KVC-1400-2024; Coavoux, Samuel/AAV-5125-2021
+OI Ollion, Etienne/0000-0003-3099-5240; Coavoux, Samuel/0000-0001-7991-3555
+SN 0049-1241
+EI 1552-8294
+PD AUG
+PY 2025
+VL 54
+IS 3
+SI SI
+BP 1156
+EP 1196
+DI 10.1177/00491241251330582
+EA 45748
+UT WOS:001472754600001
+ER 
+ 
+PT J
+AU Li, XY
+ Lin, JJ
+ Zhang, XM
+AF Li, Xinyang
+ Lin, Jingjing
+ Zhang, Xiaomeng
+TI Dynamic Transmission and Innovative Transformation of Cultural Heritage:
+ Generative Artificial Intelligence Practices Based on Cultural Cognitive
+ Models
+SO APPLIED SCIENCES-BASEL
+RI li, xinyang/KHX-9985-2024
+EI 2076-3417
+PD 46354
+PY 2025
+VL 15
+IS 23
+AR 12651
+DI 10.3390/app152312651
+UT WOS:001633989600001
+ER 
+ 
+PT J
+AU George, B
+ Mattathil, AP
+AF George, Babu
+ Mattathil, Anupama Peter
+TI Empowering African American Tourism Entrepreneurs with Generative AI:
+ Bridging Innovation and Cultural Heritage
+SO SOCIETIES
+RI George, Babu/B-7232-2013
+OI George, Babu/0000-0002-2791-828X
+EI 2075-4698
+PD FEB
+PY 2025
+VL 15
+IS 2
+AR 34
+DI 10.3390/soc15020034
+UT WOS:001431690400001
+ER 
+ 
+PT J
+AU Obreja, DM
+ Rughinis, R
+ Rosner, D
+AF Obreja, Dragos M.
+ Rughinis, Razvan
+ Rosner, Daniel
+TI Mapping the multidimensional trend of generative AI: A bibliometric
+ analysis and qualitative thematic review
+SO COMPUTERS IN HUMAN BEHAVIOR REPORTS
+RI Obreja, Dragos/AAV-8141-2020; Rughinis, Razvan/G-5367-2016
+OI Obreja, Dragoş/0000-0001-6146-8721;
+SN 2451-9588
+PD MAR
+PY 2025
+VL 17
+AR 100576
+DI 10.1016/j.chbr.2024.100576
+EA 45627
+UT WOS:001393351500001
+ER 
+ 
+PT J
+AU Qian, PB
+ Xie, XZ
+AF Qian, Pengbo
+ Xie, Xingzheng
+TI Task-Technology Fit Leads to Conflict: The Double-Edged-Sword Effect of
+ Generative Artificial Intelligence on Scientific Creative Performance in
+ Humanities and Social Sciences Research
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+OI 谢, 兴政/0000-0001-9652-1916; pengbo, qian/0000-0003-1595-5566
+SN 1044-7318
+EI 1532-7590
+PD 46054
+PY 2026
+VL 42
+IS 3
+BP 1867
+EP 1891
+DI 10.1080/10447318.2025.2526580
+EA 45839
+UT WOS:001528182500001
+ER 
+ 
+PT J
+AU Spennemann, DHR
+AF Spennemann, Dirk H. R.
+TI Generative Artificial Intelligence, Human Agency and the Future of
+ Cultural Heritage
+SO HERITAGE
+RI Spennemann, Dirk/J-4199-2016
+OI Spennemann, Dirk/0000-0003-2639-7950
+SN 2571-9408
+PD JUL
+PY 2024
+VL 7
+IS 7
+BP 3597
+EP 3609
+DI 10.3390/heritage7070170
+UT WOS:001277577800001
+ER 
+ 
+PT J
+AU Zhang, J
+ Ma, WL
+ Kou, YT
+ Liu, JF
+ Zhao, RX
+ Xian, GJ
+AF Zhang, Jie
+ Ma, Weilu
+ Kou, Yuantao
+ Liu, Jifang
+ Zhao, Ruixue
+ Xian, Guojian
+TI Automated learning support literature classification using large
+ language models via different strategies: a study of the LIS literature
+SO ELECTRONIC LIBRARY
+RI Zhao, Ruixue/OHT-8864-2025
+SN 0264-0473
+EI 1758-616X
+PD 46058
+PY 2026
+VL 44
+IS 1
+SI SI
+BP 27
+EP 50
+DI 10.1108/EL-03-2025-0099
+EA 45962
+UT WOS:001622736400001
+ER 
+ 
+PT J
+AU Sebastian, R
+ Kottekkadan, NN
+ Thomas, TK
+ Kk, MN
+AF Sebastian, Rigin
+ Kottekkadan, Noufal Naheem
+ Thomas, Toney K.
+ Niyas Kk, Mohammed
+TI Generative AI tools (ChatGPT*) in social science research
+SO JOURNAL OF INFORMATION COMMUNICATION & ETHICS IN SOCIETY
+RI ; Thomas, Toney/ABB-1901-2020; Kottekkadan, Noufal Naheem/HTR-1535-2023
+OI Niyas, Mohammed K K/0000-0002-6416-3656; Sebastian,
+ Rigin/0000-0002-1248-5792; Kottekkadan, Noufal
+ Naheem/0000-0002-9320-9094
+SN 1477-996X
+EI 1758-8871
+PD 46115
+PY 2025
+VL 23
+IS 2
+BP 284
+EP 290
+DI 10.1108/JICES-10-2024-0145
+EA 45658
+UT WOS:001399833200001
+ER 
+ 
+PT J
+AU Feng, WY
+ Li, YH
+ Ma, CH
+ Yu, LS
+AF Feng, Wenyan
+ Li, Yuhang
+ Ma, Chunhao
+ Yu, Lisai
+TI From ChatGPT to Sora: Analyzing Public Opinions and Attitudes on
+ Generative Artificial Intelligence in Social Media
+SO IEEE ACCESS
+RI Ma, Chunhao/JPL-5060-2023; Li, Yuhang/MGA-2769-2025; Feng,
+ Wenyan/IZE-4638-2023
+OI Ma, Chunhao/0000-0001-6846-3608;
+SN 2169-3536
+PY 2025
+VL 13
+BP 14485
+EP 14498
+DI 10.1109/ACCESS.2025.3530683
+UT WOS:001405925700018
+ER 
+ 
+PT J
+AU Deroncele-Acosta, A
+ Sayán-Rivera, RME
+ Mendoza-López, AD
+ Norabuena-Figueroa, ED
+AF Deroncele-Acosta, Angel
+ Sayan-Rivera, Rosa Maria Elizabeth
+ Mendoza-Lopez, Angel Deciderio
+ Norabuena-Figueroa, Emerson Damian
+TI Generative Artificial Intelligence and Transversal Competencies in
+ Higher Education: A Systematic Review
+SO APPLIED SYSTEM INNOVATION
+RI ; DERONCELE ACOSTA, ANGEL/IRZ-1383-2023
+OI NORABUENA FIGUEROA, EMERSON DAMIAN/0000-0003-2909-7080; MENDOZA LOPEZ,
+ ANGEL DECIDERIO/0000-0002-9256-5150; DERONCELE ACOSTA,
+ ANGEL/0000-0002-0413-014X
+EI 2571-5577
+PD 46191
+PY 2025
+VL 8
+IS 3
+AR 83
+DI 10.3390/asi8030083
+UT WOS:001515253800001
+ER 
+ 
+PT J
+AU Schwitter, N
+AF Schwitter, Nicole
+TI Using Artificial Intelligence to Generate Visual Vignettes in Factorial
+ Survey Experiments
+SO SOCIAL SCIENCE COMPUTER REVIEW
+RI Schwitter, Nicole/HTL-5475-2023
+OI Schwitter, Nicole/0000-0002-3837-680X
+SN 0894-4393
+EI 1552-8286
+PD 2025 NOV 3
+PY 2025
+DI 10.1177/08944393251392916
+EA 45962
+UT WOS:001611384500001
+ER 
+ 
+PT J
+AU Punziano, G
+AF Punziano, Gabriella
+TI Adaptive Epistemology: Embracing Generative AI as a Paradigm Shift in
+ Social Science
+SO SOCIETIES
+RI Punziano, Gabriella/AAD-1398-2021
+EI 2075-4698
+PD 46224
+PY 2025
+VL 15
+IS 7
+AR 205
+DI 10.3390/soc15070205
+UT WOS:001535716400001
+ER 
+ 
+PT J
+AU González-Cantera, T
+ Bonacchi, C
+AF Gonzalez-Cantera, Tania
+ Bonacchi, Chiara
+TI ChatGPT's interpretation of contested memoryscapes favours the voice of
+ current governments, capitalism and the far-right
+SO INTERNATIONAL JOURNAL OF HERITAGE STUDIES
+OI González Cantera, Tania/0000-0002-7454-6183; Bonacchi,
+ Chiara/0000-0002-0872-0614
+SN 1352-7258
+EI 1470-3610
+PD 46328
+PY 2025
+VL 31
+IS 11
+BP 1508
+EP 1530
+DI 10.1080/13527258.2025.2543736
+EA 45870
+UT WOS:001560333300001
+ER 
+ 
+PT J
+AU Zhou, YY
+ Liu, QH
+ Huang, JH
+ Li, GQ
+AF Zhou, Yiyong
+ Liu, Qinghan
+ Huang, Jihao
+ Li, Guiquan
+TI Creative scar without generative AI: Individual creativity fails to
+ sustain while homogeneity keeps climbing
+SO TECHNOLOGY IN SOCIETY
+OI Zhou, Yiyong/0000-0001-9320-398X
+SN 0160-791X
+EI 1879-3274
+PD MAR
+PY 2026
+VL 84
+AR 103087
+DI 10.1016/j.techsoc.2025.103087
+EA 45901
+UT WOS:001586770800001
+ER 
+ 
+PT J
+AU Guo, QZ
+AF Guo, Qiuzi
+TI PROMPTING CHANGE: CHATGPT'S IMPACT ON DIGITAL HUMANITIES PEDAGOGY - A
+ CASE STUDY IN ART HISTORY
+SO INTERNATIONAL JOURNAL OF HUMANITIES AND ARTS COMPUTING-A JOURNAL OF
+ DIGITAL HUMANITIES
+OI Guo, Qiuzi/0000-0002-0584-9930
+SN 1753-8548
+EI 1755-1706
+PD MAR
+PY 2024
+VL 18
+IS 1
+SI SI
+BP 58
+EP 78
+DI 10.3366/ijhac.2024.0321
+UT WOS:001208742800006
+ER 
+ 
+PT J
+AU Spennemann, DHR
+AF Spennemann, Dirk H. R.
+TI Exhibiting the Heritage of COVID-19-A Conversation with ChatGPT
+SO HERITAGE
+RI Spennemann, Dirk/J-4199-2016
+OI Spennemann, Dirk/0000-0003-2639-7950
+SN 2571-9408
+PD AUG
+PY 2023
+VL 6
+IS 8
+BP 5732
+EP 5749
+DI 10.3390/heritage6080302
+UT WOS:001054545300001
+ER 
+ 
+PT J
+AU Paulus, T
+ Lester, JN
+ Davis, C
+AF Paulus, Trena
+ Lester, Jessica Nina
+ Davis, Charlie
+TI The construction of the role of AI in qualitative data analysis in the
+ social sciences
+SO AI & SOCIETY
+RI Paulus, Trena/AAU-6724-2020
+SN 0951-5666
+EI 1435-5655
+PD 2025 JUL 14
+PY 2025
+DI 10.1007/s00146-025-02488-3
+EA 45839
+UT WOS:001528246400001
+ER 
+ 
+PT J
+AU Havelka, S
+ McGuinnes, C
+ Kerrigan, P
+AF Havelka, Stefanie
+ McGuinnes, Claire
+ Kerrigan, Paraic
+TI Students' Perceptions and Uses of ChatGPT: Implications for Teaching AI
+ Literacy
+SO LIBRARY TRENDS
+RI Kerrigan, Páraic/ABC-7175-2020
+OI Havelka, Stefanie/0000-0003-0556-0325
+SN 0024-2594
+EI 1559-0682
+PD MAY
+PY 2025
+VL 73
+IS 4
+DI 10.1353/lib.2025.a968489
+UT WOS:001615523800002
+ER 
+ 
+PT J
+AU Zhao, ZX
+ Wang, DB
+AF Zhao, Zhixiao
+ Wang, Dongbo
+TI Evaluation of large language models for the intangible cultural heritage
+ domain
+SO NPJ HERITAGE SCIENCE
+EI 3059-3220
+PD 46268
+PY 2025
+VL 13
+IS 1
+AR 439
+DI 10.1038/s40494-025-02013-1
+UT WOS:001562898700001
+ER 
+ 
+PT J
+AU Choudhary, SK
+ Kar, AK
+AF Choudhary, Shweta Kumari
+ Kar, Arpan Kumar
+TI Modeling the role of generative AI in organizational privacy and
+ security
+SO DECISION SUPPORT SYSTEMS
+RI Kar, Arpan/B-9999-2009; Choudhary, Shweta/JMP-8914-2023
+SN 0167-9236
+EI 1873-5797
+PD SEP
+PY 2025
+VL 196
+AR 114500
+DI 10.1016/j.dss.2025.114500
+EA 45839
+UT WOS:001524792900003
+ER 
+ 
+PT J
+AU Ma, F
+ Xu, SS
+AF Ma, Fei
+ Xu, Shanshan
+TI Design system of generative adversarial network (GAN) for bronze
+ patterns based on transformer
+SO INTELLIGENT DECISION TECHNOLOGIES-NETHERLANDS
+RI Ma, Fei/AAX-6899-2020
+SN 1872-4981
+EI 1875-8843
+PD 2025 NOV 18
+PY 2025
+DI 10.1177/18724981251396254
+EA 45962
+UT WOS:001617631400001
+ER 
+ 
+PT J
+AU Choemprayong, S
+ Chintakovid, T
+ Arsa, P
+ Intaranuch, K
+ Lohakit, PO
+ Mongkolsriniyom, W
+ Tapanakulsak, T
+AF Choemprayong, Songphan
+ Chintakovid, Thippaya
+ Arsa, Papatsara
+ Intaranuch, Kongweha
+ Lohakit, Phim-on
+ Mongkolsriniyom, Weerakamol
+ Tapanakulsak, Theerathorn
+TI Mapping the intersection of digital technologies and humanities: a
+ multidisciplinary scoping review of the digital humanities movement in
+ Thailand
+SO DIGITAL SCHOLARSHIP IN THE HUMANITIES
+RI Choemprayong, Songphan/A-3475-2011
+OI intaranuch, kongweha/0009-0009-8012-3994; Chintakovid,
+ Thippaya/0000-0003-4728-4787; Arsa, Papatsara/0000-0002-1023-0323
+SN 2055-7671
+EI 2055-768X
+PD APR
+PY 2026
+VL 41
+IS 1
+BP 51
+EP 68
+DI 10.1093/llc/fqaf117
+EA 45931
+UT WOS:001595533100001
+ER 
+ 
+PT J
+AU Zhao, FH
+ Ren, H
+ Sun, K
+ Zhu, X
+AF Zhao, Fanhua
+ Ren, Hui
+ Sun, Ke
+ Zhu, Xian
+TI GAN-based heterogeneous network for ancient mural restoration
+SO HERITAGE SCIENCE
+RI sun, ke/JBR-9935-2023
+SN 2050-7445
+PD 46361
+PY 2024
+VL 12
+IS 1
+AR 418
+DI 10.1186/s40494-024-01517-6
+UT WOS:001370433700001
+ER 
+ 
+PT J
+AU Wang, YL
+ Liu, XX
+ Gan, Y
+ Gong, YX
+ Xi, YC
+ Li, L
+AF Wang, Yali
+ Liu, Xinxiong
+ Gan, Yan
+ Gong, Yixiao
+ Xi, Yuchen
+ Li, Lin
+TI Cross-Platform Comparison of Generative Design Based on a
+ Multi-Dimensional Cultural Gene Model of the Phoenix Pattern
+SO APPLIED SCIENCES-BASEL
+OI Li, Lin/0009-0009-7364-4759; Gan, Yan/0000-0003-4819-4599
+EI 2076-3417
+PD 46226
+PY 2025
+VL 15
+IS 15
+AR 8170
+DI 10.3390/app15158170
+UT WOS:001548978200001
+ER 
+ 
+PT J
+AU Almarwani, N
+ Aloufi, S
+ Alkhereyf, S
+ Alhassoun, M
+ Almutery, M
+ Alshalawi, N
+ Al-Thubaity, A
+AF Almarwani, Nada
+ Aloufi, Samah
+ Alkhereyf, Sakhar
+ Alhassoun, Manal
+ Almutery, Manal
+ Alshalawi, Nouf
+ Al-Thubaity, Abdulmohsen
+TI KingdomGlimpses: Evaluating Saudi Cultural Representation Through
+ Text-to-Image Models
+SO IEEE ACCESS
+RI ; Almutery, Manal/ABD-9732-2021; Al-Thubaity, AbdulMohsen/AAW-3824-2020;
+ AlKhereyf, Sakhar/IUM-5471-2023
+OI Almarwani, Nada/0000-0002-3361-4653;
+SN 2169-3536
+PY 2025
+VL 13
+BP 177822
+EP 177845
+DI 10.1109/ACCESS.2025.3619432
+UT WOS:001596883500044
+ER 
+ 
+PT J
+AU Rodrigues, OS
+ Rodrigues, KS
+AF Rodrigues, Olira Saraiva
+ Rodrigues, Karoline Santos
+TI Artificial intelligence in education: the challenges of ChatGPT
+SO TEXTO LIVRE-LINGUAGEM E TECNOLOGIA
+OI Rodrigues, Karoline Santos/0000-0002-5139-9950; SARAIVA RODRIGUES,
+ OLIRA/0000-0003-2371-3030
+SN 1983-3652
+PY 2023
+VL 16
+AR e45997
+DI 10.1590/1983-3652.2023.45997
+UT WOS:001063259100001
+ER 
+ 
+PT J
+AU Liu, GH
+ Qi, XY
+ Xu, QX
+ Lei, JY
+ Zhang, YX
+ Huang, XT
+ Yao, ZH
+ Cao, N
+AF Liu, Guanhong
+ Qi, Xiaoyu
+ Xu, Qixuan
+ Lei, Jiaying
+ Zhang, Yuexi
+ Huang, Xueting
+ Yao, Zhihao
+ Cao, Nan
+TI ShadowTale: Exploring AI-Assisted Story Creation in Digital Shadow
+ Puppetry
+SO IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS
+RI ; Cao, Nan/O-5397-2014; Huang, Xueting/LIC-7949-2024
+OI Lei, Jiaying/0009-0000-3390-3116; Yao, Zhihao/0009-0003-9638-7413;
+ zhang, yuexi/0009-0001-2921-2977; Qi, Xiaoyu/0009-0003-0292-6368; Cao,
+ Nan/0000-0003-1316-7515;
+SN 2329-924X
+PD 2025 DEC 17
+PY 2025
+DI 10.1109/TCSS.2025.3635735
+EA 45992
+UT WOS:001643518900001
+ER 
+ 
+PT J
+AU Wang, SB
+ Zhi, ER
+ Liu, F
+AF Wang, Sunyar Bishuang
+ Zhi, Eric
+ Liu, Feng
+TI The Impact of Generative AI on Chinese Poetry Instruction: Enhancing
+ Students' Learning Interest, Collaboration, and Writing Ability
+SO INTERNATIONAL JOURNAL OF ONLINE PEDAGOGY AND COURSE DESIGN
+RI ; Wang, Sandy I Ching/KFB-7341-2024
+OI Wang, Bishuang/0009-0008-8262-5499; Wang, Sandy I
+ Ching/0009-0000-6103-8166
+SN 2155-6873
+EI 2155-6881
+PY 2025
+VL 15
+IS 1
+AR 375626
+DI 10.4018/IJOPCD.375626
+UT WOS:001525950600002
+ER 
+ 
+PT J
+AU Zhang, JZ
+ Pan, WH
+ Liang, XY
+ Ge, JH
+AF Zhang, Jianzhen
+ Pan, Weihao
+ Liang, Xiaoyu
+ Ge, Jiahao
+TI Development and Validation of the ICAP GenAI Scale to Measure How
+ Graduate Students Integrate Generative AI Into Academic Research
+SO EUROPEAN JOURNAL OF EDUCATION
+OI Ge, Jiahao/0000-0003-3423-5935
+SN 0141-8211
+EI 1465-3435
+PD SEP
+PY 2025
+VL 60
+IS 3
+AR e70209
+DI 10.1111/ejed.70209
+UT WOS:001559320900005
+ER 
+ 
+PT J
+AU Spilbergs, A
+ Dzerve, B
+ Ozolina, S
+ Innuse-Breidaka, G
+ Mavrenko, T
+ Cable, L
+ Vincevica, A
+ Sloka, B
+ Tora, G
+ Liepina, K
+AF Spilbergs, Aivars
+ Dzerve, Biruta
+ Ozolina, Sandra
+ Innuse-Breidaka, Gunta
+ Mavrenko, Tatjana
+ Cable, Laima
+ Vincevica, Agnese
+ Sloka, Biruta
+ Tora, Ginta
+ Liepina, Kristine
+TI Developing Policy Guidelines for Generative AI Use in Higher Education:
+ Evidence from the Baltic Sea Region
+SO HIGHLIGHTS OF SUSTAINABILITY
+RI Sloka, Biruta/K-5043-2017; Spilbergs, Aivars/AAH-3847-2019
+OI Sloka, Biruta/0000-0003-2129-053X; Mavrenko,
+ Tatjana/0009-0001-6327-5023; Spilbergs, Aivars/0000-0003-2537-8053;
+ TORA, GINTA/0000-0003-0427-7210
+EI 2696-628X
+PD DEC
+PY 2025
+VL 4
+IS 4
+DI 10.54175/hsustain4040017
+UT WOS:001643360600005
+ER 
+ 
+PT J
+AU Zhang, HY
+ Li, Q
+ Yang, Z
+ Gao, MY
+ Shang, L
+ Tan, ZJ
+AF Zhang, Haiyue
+ Li, Qi
+ Yang, Zhe
+ Gao, Mingyu
+ Shang, Lei
+ Tan, Zhijun
+TI GAN-CMA: Causal Mediation Analysis Based on Generative Adversarial
+ Network
+SO IEEE ACCESS
+RI Li, Qi/IAR-3104-2023
+OI Li, Qi/0000-0002-0162-8487; Gao, Mingyu/0009-0006-8831-5577; Shang,
+ Lei/0000-0003-0470-0066
+SN 2169-3536
+PY 2025
+VL 13
+BP 197109
+EP 197123
+DI 10.1109/ACCESS.2025.3633643
+UT WOS:001626857700048
+ER 
+ 
+PT J
+AU Geng, DM
+AF Geng, Dianmei
+TI Progressive Conditional Generative Adversarial Network Optimized with
+ Archimedes Optimization Algorithm Fostered Inheritance and Innovation of
+ Huizhou Carving Culture
+SO INTERNATIONAL JOURNAL OF COMPUTATIONAL INTELLIGENCE SYSTEMS
+SN 1875-6891
+EI 1875-6883
+PD 46346
+PY 2024
+VL 17
+IS 1
+AR 284
+DI 10.1007/s44196-024-00681-8
+UT WOS:001359508300001
+ER 
+ 
+PT J
+AU Henrickson, M
+AF Henrickson, Mathew
+TI Named Experts in Fine Art Auction Text from the Getty Provenance Index
+ German Sales (1900-1945)
+SO JOURNAL OF OPEN HUMANITIES DATA
+OI Henrickson, Mathew/0009-0001-3571-7728
+EI 2059-481X
+PY 2025
+VL 11
+AR 81
+DI 10.5334/johd.415
+UT WOS:001653321600004
+ER 
+ 
+PT J
+AU Panke, S
+AF Panke, Stefanie
+TI How Can (A)I Research This? An Autoethnographic Exploration of
+ Generative AI in Research, Teaching and Instructional Design
+SO JOURNAL OF TEACHER EDUCATION
+RI Panke, Stefanie/AAE-7242-2019
+OI Panke, Stefanie/0000-0003-4113-9730
+SN 0022-4871
+EI 1552-7816
+PD MAY
+PY 2025
+VL 76
+IS 3
+BP 230
+EP 244
+DI 10.1177/00224871251325065
+EA 45717
+UT WOS:001455103800001
+ER 
+ 
+PT J
+AU Li, JB
+ Wei, TX
+ Qu, WG
+ Li, B
+ Feng, MX
+ Wang, DB
+AF Li, Jiabin
+ Wei, Tingxin
+ Qu, Weiguang
+ Li, Bin
+ Feng, Minxuan
+ Wang, Dongbo
+TI Combining Lexicon Definitions and the Retrieval-Augmented Generation of
+ a Large Language Model for the Automatic Annotation of Ancient Chinese
+ Poetry
+SO MATHEMATICS
+RI feng, minxuan/KVZ-2744-2024
+EI 2227-7390
+PD 46192
+PY 2025
+VL 13
+IS 12
+AR 2023
+DI 10.3390/math13122023
+UT WOS:001516016200001
+ER 
+ 
+PT J
+AU Rossi, L
+ Harrison, K
+ Shklovski, I
+AF Rossi, Luca
+ Harrison, Katherine
+ Shklovski, Irina
+TI The Problems of LLM-generated Data in Social Science Research
+SO SOCIOLOGICA-INTERNATIONAL JOURNAL FOR SOCIOLOGICAL DEBATE
+OI Shklovski, Irina/0000-0003-1874-0958
+EI 1971-8853
+PY 2024
+VL 18
+IS 2
+BP 145
+EP 168
+DI 10.6092/issn.1971-8853/19576
+UT WOS:001356688800007
+ER 
+ 
+PT J
+AU Combs, K
+ Moyer, A
+ Bihl, TJ
+AF Combs, Kara
+ Moyer, Adam
+ Bihl, Trevor J.
+TI Uncertainty in Visual Generative AI
+SO ALGORITHMS
+RI Combs, Kara/AED-9815-2022; Bihl, Trevor/AGG-9605-2022
+OI Combs, Kara/0000-0002-6313-8563;
+EI 1999-4893
+PD APR
+PY 2024
+VL 17
+IS 4
+AR 136
+DI 10.3390/a17040136
+UT WOS:001210238400001
+ER 
+ 
+PT J
+AU Wang, JX
+ Liu, GQ
+ Cheng, Y
+ Xu, XB
+ Li, ZY
+AF Wang, Jiaxing
+ Liu, Guoquan
+ Cheng, Yang
+ Xu, Xiaobo
+ Li, Zhongyun
+TI Leveraging Internet-Sourced Text Data for Financial Analytics in Supply
+ Chain Finance: A Large Language Model-Enhanced Text Mining Workflow
+SO IEEE TRANSACTIONS ON ENGINEERING MANAGEMENT
+OI Cheng, Yang/0000-0002-3082-4890; Liu, Guoquan George/0000-0002-3397-4456
+SN 0018-9391
+EI 1558-0040
+PY 2025
+VL 72
+BP 1924
+EP 1938
+DI 10.1109/TEM.2025.3567302
+UT WOS:001494677700001
+ER 
+ 
+PT J
+AU Natale, S
+ Surace, B
+ Mensa, E
+ Befera, L
+AF Natale, Simone
+ Surace, Bruno
+ Mensa, Enrico
+ Befera, Luca
+TI ChatGPT for cultural heritage and the customization of generative AI: A
+ talkthrough analysis of the Luigi Einaudi chatbot
+SO NEW MEDIA & SOCIETY
+RI Befera, Luca/JVD-8053-2023
+OI Natale, Simone/0000-0003-1962-2398
+SN 1461-4448
+EI 1461-7315
+PD 2025 OCT 29
+PY 2025
+DI 10.1177/14614448251384258
+EA 45931
+UT WOS:001603377600001
+ER 
+ 
+PT J
+AU Sárovec, D
+AF Sarovec, Daniel
+TI Political Actors in the Age of Generative Artificial Intelligence: The
+ Czech Perspective
+SO ACTA INFORMATICA PRAGENSIA
+RI Šárovec, Daniel/O-3640-2017
+OI Šárovec, Daniel/0000-0003-2491-538X
+EI 1805-4951
+PY 2025
+VL 14
+IS 2
+BP 282
+EP 295
+DI 10.18267/j.aip.272
+UT WOS:001538926300008
+ER 
+ 
+PT J
+AU Dai, YZ
+ Shao, X
+ Zhang, JL
+ Chen, YL
+ Chen, Q
+ Liao, J
+ Chi, F
+ Zhang, JH
+ Fan, XH
+AF Dai, Yizheng
+ Shao, Xin
+ Zhang, Jinlu
+ Chen, Yulong
+ Chen, Qian
+ Liao, Jie
+ Chi, Fei
+ Zhang, Junhua
+ Fan, Xiaohui
+TI TCMChat: A generative large language model for traditional Chinese
+ medicine
+SO PHARMACOLOGICAL RESEARCH
+RI zhang, junhua/A-5774-2009; Chen, Yulong/MVX-5272-2025; Shao,
+ Xin/LJL-4308-2024; Fan, Xiaohui/F-6458-2010
+OI Fan, Xiaohui/0000-0002-6336-3007
+SN 1043-6618
+EI 1096-1186
+PD DEC
+PY 2024
+VL 210
+AR 107530
+DI 10.1016/j.phrs.2024.107530
+EA 45627
+UT WOS:001374093600001
+PM 39617279
+ER 
+ 
+PT J
+AU Kuznetsov, A
+AF Kuznetsov, Aleksey
+TI From Words to Meaning: Interpreting the Topics of Historical Texts Using
+ Large Language Models
+SO ISTORIYA-ELEKTRONNYI NAUCHNO-OBRAZOVATELNYI ZHURNAL
+OI Kuznetsov, Alexey/0000-0003-4755-250X
+SN 2079-8784
+PY 2025
+VL 15
+IS 12
+AR 338379
+DI 10.18254/S207987840033837-9
+PN 2
+UT WOS:001446517100015
+ER 
+ 
+PT J
+AU Pan, Y
+AF Pan, Yu
+TI Leveraging generative AI powered rubric-indexed feedback as a formative
+ assessment strategy for enhancing medical English education
+SO DISCOVER COMPUTING
+OI Pan, Yu/0000-0001-9170-1192
+SN 2948-2984
+EI 2948-2992
+PD 46355
+PY 2025
+VL 28
+IS 1
+AR 284
+DI 10.1007/s10791-025-09830-9
+UT WOS:001626405500001
+ER 
+ 
+PT J
+AU Bu, F
+ Wang, Z
+ Wang, SY
+ Liu, ZY
+AF Bu, Fan
+ Wang, Zheng
+ Wang, Siyi
+ Liu, Ziyao
+TI An Investigation Into Value Misalignment in LLM-Generated Texts for
+ Cultural Heritage
+SO IEEE TRANSACTIONS ON EMERGING TOPICS IN COMPUTATIONAL INTELLIGENCE
+RI ; Wang, Zheng/NES-6407-2025
+OI Wang, Siyi/0000-0002-2731-3176; Liu, Ziyao/0000-0003-4060-0839; BU,
+ FAN/0000-0003-4888-4207; Liu, Haozhe/0000-0003-0545-2922;
+SN 2471-285X
+PD 2025 AUG 20
+PY 2025
+DI 10.1109/TETCI.2025.3597289
+EA 45870
+UT WOS:001556116800001
+ER 
+ 
+PT J
+AU Lu, Y
+ Li, JX
+ Li, L
+ Yuan, CX
+AF Lu, Ying
+ Li, Jiaxin
+ Li, Lin
+ Yuan, Chongxin
+TI A Museum artifact classification model based on cross-modal attention
+ fusion and generative data augmentation
+SO SCIENTIFIC REPORTS
+OI Yuan, Chongxin/0000-0002-7723-8602
+SN 2045-2322
+PD 46374
+PY 2025
+VL 16
+IS 1
+AR 298
+DI 10.1038/s41598-025-29671-2
+UT WOS:001654734800001
+PM 41413412
+ER 
+ 
+PT J
+AU Mangiò, F
+ Pedeliento, G
+ Wassler, P
+ Williams, N
+AF Mangio, Federico
+ Pedeliento, Giuseppe
+ Wassler, Philipp
+ Williams, Nigel
+TI Discursively negotiating AI: A social representation theory approach to
+ LLM-based chatbots
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+RI Wassler, Philipp/Q-1958-2019
+OI Mangiò, Federico/0000-0003-3997-4956
+SN 0040-1625
+EI 1873-5509
+PD DEC
+PY 2025
+VL 221
+AR 124352
+DI 10.1016/j.techfore.2025.124352
+EA 45901
+UT WOS:001578143800001
+ER 
+ 
+PT J
+AU Bail, CA
+AF Bail, Christopher A.
+TI Can Generative AI improve social science?
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+ AMERICA
+SN 0027-8424
+EI 1091-6490
+PD 46163
+PY 2024
+VL 121
+IS 21
+AR e2314021121
+DI 10.1073/pnas.2314021121
+UT WOS:001264372200005
+PM 38722813
+ER 
+ 
+PT J
+AU Kaminska, AM
+AF Kaminska, Anna Malgorzata
+TI Tailoring Scientific Knowledge: How Generative AI Personalizes Academic
+ Reading Experiences
+SO PUBLICATIONS
+OI Kamińska, Anna Małgorzata/0000-0001-5411-5426
+EI 2304-6775
+PD 46114
+PY 2025
+VL 13
+IS 2
+AR 18
+DI 10.3390/publications13020018
+UT WOS:001515007000001
+ER 
+ 
+PT J
+AU Ciccone, G
+AF Ciccone, Gabriele
+TI ChatGPT as a Digital Assistant for Archaeology: Insights from the Smart
+ Anomaly Detection Assistant Development
+SO HERITAGE
+RI Ciccone, Gabriele/ODN-0313-2025
+OI Ciccone, Gabriele/0000-0002-4341-9296
+SN 2571-9408
+PD OCT
+PY 2024
+VL 7
+IS 10
+BP 5428
+EP 5445
+DI 10.3390/heritage7100256
+UT WOS:001343170700001
+ER 
+ 
+PT J
+AU Lu, Y
+ Yuan, WM
+ Wang, MY
+ Wang, PH
+ Wu, SF
+ Wu, JC
+ Xing, WZ
+ Xie, WX
+ Yu, FZ
+AF Lu, Yi
+ Yuan, Wenmiao
+ Wang, Mengyao
+ Wang, Pohsun
+ Wu, Sifan
+ Wu, Jiacheng
+ Xing, Wenzhuo
+ Xie, Wanxu
+ Yu, Fuze
+TI Multi-agent collaborative pathways for Chinese traditional architectural
+ image generation
+SO SCIENTIFIC REPORTS
+SN 2045-2322
+PD 46298
+PY 2025
+VL 15
+IS 1
+AR 34596
+DI 10.1038/s41598-025-18130-7
+UT WOS:001587521000023
+PM 41044324
+ER 
+ 
+PT J
+AU Vasic, I
+ Fill, HG
+ Quattrini, R
+ Pierdicca, R
+AF Vasic, Iva
+ Fill, Hans-Georg
+ Quattrini, Ramona
+ Pierdicca, Roberto
+TI Knowledge Graphs vs. Large Language Models: Competitors or Partners in
+ Supporting Virtual Museums
+SO ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE
+RI Pierdicca, Roberto/AAH-9635-2020; Quattrini, Ramona/B-6754-2013; Fill,
+ Hans-Georg/AFC-2370-2022
+SN 1556-4673
+EI 1556-4711
+PD DEC
+PY 2025
+VL 18
+IS 4
+SI SI
+AR 61
+DI 10.1145/3756016
+UT WOS:001650673700001
+ER 
+ 
+PT J
+AU Huang, T
+AF Huang, Tao
+TI Content moderation by LLM: from accuracy to legitimacy
+SO ARTIFICIAL INTELLIGENCE REVIEW
+OI Huang, Tao/0009-0008-3571-4333
+SN 0269-2821
+EI 1573-7462
+PD 46222
+PY 2025
+VL 58
+IS 10
+AR 320
+DI 10.1007/s10462-025-11328-1
+UT WOS:001531253300002
+ER 
+ 
+PT J
+AU Farazouli, A
+ Cerratto-Pargman, T
+ Bolander-Laksov, K
+ McGrath, C
+AF Farazouli, Alexandra
+ Cerratto-Pargman, Teresa
+ Bolander-Laksov, Klara
+ McGrath, Cormac
+TI Hello GPT! Goodbye home examination? An exploratory study of AI chatbots
+ impact on university teachers' assessment practices
+SO ASSESSMENT & EVALUATION IN HIGHER EDUCATION
+RI McGrath, Cormac/H-8935-2019; Farazouli, Alexana/HME-1464-2023
+OI McGrath, Cormac/0000-0002-8215-3646; Cerratto Pargman,
+ Teresa/0000-0001-6389-0467; Bolander Laksov, Klara/0000-0002-3345-3810;
+ Farazouli, Alexana/0000-0001-7601-3850
+SN 0260-2938
+EI 1469-297X
+PD 46114
+PY 2024
+VL 49
+IS 3
+BP 363
+EP 375
+DI 10.1080/02602938.2023.2241676
+EA 45108
+UT WOS:001040685700001
+ER 
+ 
+PT J
+AU Li, M
+ Enkhtur, A
+ Yamamoto, BA
+ Cheng, F
+ Chen, LL
+AF Li, Ming
+ Enkhtur, Ariunaa
+ Yamamoto, Beverley Anne
+ Cheng, Fei
+ Chen, Lilan
+TI Potential Societal Biases of ChatGPT in Higher Education: A Scoping
+ Review
+SO OPEN PRAXIS
+RI ; CHEN, Lilan/KWT-8951-2024; Enkhtur, Ariunaa/HHZ-9126-2022
+OI Cheng, Fei/0000-0001-5161-0544; Yamamoto, Beverley/0000-0003-1791-6827;
+ Li, Ming/0000-0001-8855-1138; CHEN, Lilan/0000-0002-5367-3239; Enkhtur,
+ Ariunaa/0000-0003-1544-8118
+SN 2304-070X
+PY 2025
+VL 17
+IS 1
+BP 79
+EP 94
+DI 10.55982/openpraxis.17.1.750
+UT WOS:001488300900007
+ER 
+ 
+PT J
+AU Bauer, C
+ Dang, LTD
+ van den Beucken, T
+ Schuchhardt, J
+ Herwig, R
+AF Bauer, Chris
+ Duc Dang, Long Tran
+ van den Beucken, Twan
+ Schuchhardt, Johannes
+ Herwig, Ralf
+TI Systematic analysis of hepatotoxicity: combining literature mining and
+ AI language models
+SO FRONTIERS IN ARTIFICIAL INTELLIGENCE
+EI 2624-8212
+PD 46224
+PY 2025
+VL 8
+AR 1561292
+DI 10.3389/frai.2025.1561292
+UT WOS:001548430900001
+PM 40791312
+ER 
+ 
+PT J
+AU Encheva, A
+ Van Es, K
+ Nguyen, D
+AF Encheva, Ani
+ Van Es, Karin
+ Nguyen, Dennis
+TI Relational dynamics at the intersection of technology and higher
+ education: perspectives on GenAI use among humanities master's students
+SO LEARNING MEDIA AND TECHNOLOGY
+OI Nguyen, Dennis/0000-0001-6982-775X; van Es, Karin/0000-0001-5184-8640;
+ Encheva, Ani/0009-0000-0871-6597
+SN 1743-9884
+EI 1743-9892
+PD 2025 NOV 19
+PY 2025
+DI 10.1080/17439884.2025.2578625
+EA 45962
+UT WOS:001617113600001
+ER 
+ 
+PT J
+AU Kieser, F
+ Wulff, P
+ Kuhn, J
+ Küchemann, S
+AF Kieser, Fabian
+ Wulff, Peter
+ Kuhn, Jochen
+ Kuechemann, Stefan
+TI Educational data augmentation in physics education research using
+ ChatGPT
+SO PHYSICAL REVIEW PHYSICS EDUCATION RESEARCH
+RI Küchemann, Stefan/KWT-6140-2024; Kuhn, Jochen/K-4031-2014; Wulff,
+ Peter/GSI-9069-2022
+OI Küchemann, Stefan/0000-0003-2729-1592; Kuhn, Jochen/0000-0002-6985-3218;
+ Wulff, Peter/0000-0002-5471-7977; Kieser, Fabian/0009-0005-6531-0637
+SN 2469-9896
+PD 46320
+PY 2023
+VL 19
+IS 2
+AR 20150
+DI 10.1103/PhysRevPhysEducRes.19.020150
+UT WOS:001122891200001
+ER 
+ 
+PT J
+AU Li, GM
+ Kaewbucha, M
+ Daoduean, C
+AF Li, Guoming
+ Kaewbucha, Manus
+ Daoduean, Chomchan
+TI The Impact of AI-Generated Li Ethnic Cultural and Creative Products on
+ Users' Continuous Participation Intention
+SO JOURNAL OF INFORMATION & KNOWLEDGE MANAGEMENT
+RI ; Li, Guoming/S-7047-2019
+OI Kaewbucha, Manus/0009-0002-4419-5922; Dowduen,
+ Chomchan/0009-0002-4225-3770;
+SN 0219-6492
+EI 1793-6926
+PD 2025 DEC 12
+PY 2025
+AR 2550131
+DI 10.1142/S021964922550131X
+EA 45992
+UT WOS:001638828500001
+ER 
+ 
+PT J
+AU întorsureanu, I
+ Oprea, SV
+ Bára, A
+ Vespan, D
+AF Intorsureanu, Iulian
+ Oprea, Simona-Vasilica
+ Bara, Adela
+ Vespan, Dragos
+TI Generative AI in Education: Perspectives Through an Academic Lens
+SO ELECTRONICS
+RI Bara, Adela/AAF-1472-2019; Vespan, Dragos Marcel/J-2784-2013; Oprea,
+ Simona Vasilica/AAF-1475-2019; Intorsureanu, Iulian/ADU-6056-2022
+OI Bara, Adela/0000-0002-0961-352X; Vespan, Dragos
+ Marcel/0000-0002-6885-1667; Oprea, Simona Vasilica/0000-0002-9005-5181;
+ Intorsureanu, Iulian/0009-0009-7870-0051
+SN 2079-9292
+PD MAR
+PY 2025
+VL 14
+IS 5
+AR 1053
+DI 10.3390/electronics14051053
+UT WOS:001444164000001
+ER 
+ 
+PT J
+AU Hwang, H
+ Park, CW
+ Kim, HK
+ Lee, JH
+AF Hwang, Hyerin
+ Park, Chan-Woo
+ Kim, Hee-Kwon
+ Lee, Jae-Ho
+TI CATS: cultural-heritage classification using LLMs and distribute model
+SO NPJ HERITAGE SCIENCE
+OI Lee, Jae-Ho/0000-0001-6773-9350
+EI 3059-3220
+PD 46094
+PY 2025
+VL 13
+IS 1
+AR 76
+DI 10.1038/s40494-025-01621-1
+UT WOS:001444355800001
+ER 
+ 
+PT J
+AU Krol, K
+ Szkutak, M
+ Legutko, E
+AF Krol, Karol
+ Szkutak, Maria
+ Legutko, Elzbieta
+TI Preserving Culinary Heritage Through AI: Sustainable Digitisation of
+ Granny Josie's Notebooks
+SO PUBLICATIONS
+RI Król, Karol/AAA-6403-2020
+OI Król, Karol/0000-0003-0534-8471
+EI 2304-6775
+PD 46346
+PY 2025
+VL 13
+IS 4
+AR 60
+DI 10.3390/publications13040060
+UT WOS:001646475400001
+ER 
+ 
+PT J
+AU Cano-Marin, E
+AF Cano-Marin, Enrique
+TI The transformative potential of Generative Artificial Intelligence
+ (GenAI) in business: a text mining analysis on innovation data sources
+SO ESIC MARKET
+RI Caño Marín, Enrique/GZM-2612-2022
+OI Caño Marín, Enrique/0000-0002-7948-1657
+SN 0212-1867
+EI 1989-3574
+PD MAY-AUG
+PY 2024
+VL 55
+IS 2
+AR e333
+DI 10.7200/esicm.55.333
+UT WOS:001301585100001
+ER 
+ 
+PT J
+AU Yongzhi, S
+AF Yongzhi, Seow
+TI The Impact of Debate Lessons, Powered by Generative AI, on Student
+ Learning
+SO IAFOR JOURNAL OF EDUCATION
+EI 2187-0594
+PY 2024
+VL 12
+IS 3
+UT WOS:001376556300002
+ER 
+ 
+PT J
+AU Liu, YX
+ Ge, GY
+ Qi, ZL
+ Li, ZX
+ Sun, FL
+AF Liu Yixuan
+ Ge Guangying
+ Qi Zhenling
+ Li Zhenxuan
+ Sun Fulin
+TI Research on Embroidery Image Restoration Based on Improved Deep
+ Convolutional Generative Adversarial Network
+SO LASER & OPTOELECTRONICS PROGRESS
+SN 1006-4125
+PD OCT
+PY 2023
+VL 60
+IS 20
+DI 10.3788/LOP223060
+UT WOS:001180043200007
+ER 
+ 
+PT J
+AU Zhao, YY
+ Zhou, WJ
+AF Zhao, YueYan
+ Zhou, WenJie
+TI Unlocking ancient wisdom with modern tools: A new approach to the
+ revitalization of ancient texts based on generative artificial
+ intelligence
+SO JOURNAL OF ACADEMIC LIBRARIANSHIP
+SN 0099-1333
+EI 1879-1999
+PD MAY
+PY 2025
+VL 51
+IS 3
+AR 103055
+DI 10.1016/j.acalib.2025.103055
+EA 45748
+UT WOS:001470676500001
+ER 
+ 
+PT J
+AU Guo, ZT
+ Yang, GF
+ Wu, WJ
+AF Guo, Zitong
+ Yang, Guangfei
+ Wu, Wenjun
+TI Automatic synthesis of econometric empirical research results using
+ large language model: A case study of digitalization-greening
+ relationships
+SO TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE
+OI Guo, Zitong/0009-0004-4197-6349
+SN 0040-1625
+EI 1873-5509
+PD JAN
+PY 2026
+VL 222
+AR 124370
+DI 10.1016/j.techfore.2025.124370
+EA 45931
+UT WOS:001597792800001
+ER 
+ 
+PT J
+AU Prasanna, A
+ Kushwaha, BP
+AF Prasanna, Akshara
+ Kushwaha, Bijay Prasad
+TI Generative AI in Marketing: Foundations, Trends, and Future Research
+ Propositions
+SO HUMAN BEHAVIOR AND EMERGING TECHNOLOGIES
+RI Kushwaha, Bijay Prasad/ADC-7017-2022; P, Akshara/IXD-2483-2023
+OI Kushwaha, Bijay Prasad/0000-0001-5086-3400; Prasanna,
+ Akshara/0009-0008-9380-2040;
+EI 2578-1863
+PY 2025
+VL 2025
+IS 1
+AR 5542513
+DI 10.1155/hbe2/5542513
+UT WOS:001527428100001
+ER 
+ 
+PT J
+AU Chai, YC
+ Liu, ZH
+ Li, ST
+ Xu, Y
+ Zhou, ZB
+ Duh, H
+AF Chai, Yichen
+ Liu, Zihang
+ Li, Shuting
+ Xu, Yue
+ Zhou, Zhibin
+ Duh, Henry
+TI Enhancing Youth Engagement in Intangible Cultural Heritage through
+ Human-GenAI Co-Creation
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+RI Duh, Henry/G-3220-2010
+OI Duh, Henry/0000-0003-4808-6109
+SN 1044-7318
+EI 1532-7590
+PD 2025 OCT 30
+PY 2025
+DI 10.1080/10447318.2025.2554298
+EA 45931
+UT WOS:001604889900001
+ER 
+ 
+PT J
+AU Zhou, L
+ Qi, M
+ Shi, YF
+ Lin, CJ
+AF Zhou, Li
+ Qi, Meng
+ Shi, Yafei
+ Lin, Chunjie
+TI CalliFormer: a structure-aware transformer for Chinese calligraphy
+ generation
+SO SCIENTIFIC REPORTS
+RI Qi, Meng/GVT-9926-2022
+SN 2045-2322
+PD 46367
+PY 2025
+VL 16
+IS 1
+AR 28
+DI 10.1038/s41598-025-29262-1
+UT WOS:001653310200001
+PM 41381580
+ER 
+ 
+PT J
+AU Liu, H
+ Dai, L
+ Jiang, HZ
+AF Liu, Hua
+ Dai, Ling
+ Jiang, Haozhe
+TI Applied with Caution: Extreme-Scenario Testing Reveals Significant Risks
+ in Using LLMs for Humanities and Social Sciences Paper Evaluation
+SO APPLIED SCIENCES-BASEL
+RI ; Jiang, Haozhe/AAN-9292-2021
+OI Dai, Ling/0009-0006-8384-4664; Jiang, Haozhe/0000-0002-7870-0993
+EI 2076-3417
+PD 46298
+PY 2025
+VL 15
+IS 19
+AR 10696
+DI 10.3390/app151910696
+UT WOS:001593455300001
+ER 
+ 
+PT J
+AU Zhang, Y
+ Tang, QJ
+AF Zhang, Yan
+ Tang, Qianjun
+TI Integrating AI-generated content tools in higher education: a
+ comparative analysis of interdisciplinary learning outcomes
+SO SCIENTIFIC REPORTS
+SN 2045-2322
+PD 46219
+PY 2025
+VL 15
+IS 1
+AR 25802
+DI 10.1038/s41598-025-10941-y
+UT WOS:001530799200028
+PM 40670544
+ER 
+ 
+PT J
+AU Chen, Z
+ Yang, R
+ Yan, YC
+ Li, Z
+AF Chen, Zhuo
+ Yang, Rong
+ Yan, Yichao
+ Li, Zhu
+TI HiStyle: Reinventing historic portraits via 3D generative model
+SO DISPLAYS
+RI Li, Zhu/AAD-8182-2021; Yan, Yichao/ADT-5511-2022
+SN 0141-9382
+EI 1872-7387
+PD JUL
+PY 2024
+VL 83
+AR 102725
+DI 10.1016/j.displa.2024.102725
+EA 45383
+UT WOS:001234993500001
+ER 
+ 
+PT J
+AU Spennemann, DHR
+AF Spennemann, Dirk H. R.
+TI Children of AI: A Protocol for Managing the Born-Digital Ephemera
+ Spawned by Generative AI Language Models
+SO PUBLICATIONS
+RI Spennemann, Dirk/J-4199-2016
+OI Spennemann, Dirk/0000-0003-2639-7950
+EI 2304-6775
+PD SEP
+PY 2023
+VL 11
+IS 3
+AR 45
+DI 10.3390/publications11030045
+UT WOS:001074493700001
+ER 
+ 
+PT J
+AU Panagoulias, DP
+ Tsichrintzi, EA
+ Sotiropoulos, DN
+ Chrysafiadi, K
+ Sakkopoulos, E
+ Tsihrintzis, GA
+ Virvou, M
+AF Panagoulias, Dimitrios P.
+ Tsichrintzi, Evangelia-Aikaterini
+ Sotiropoulos, Dionisios N.
+ Chrysafiadi, Konstantina
+ Sakkopoulos, Evangelos
+ Tsihrintzis, George A.
+ Virvou, Maria
+TI LYRICEL: Knowledge Graphs Combined With Large Language Models and
+ Machine Learning for Cross-Cultural Analysis of Lyrics-The Case of Greek
+ Songs
+SO IEEE ACCESS
+RI Chrysafiadi, Konstantina/AAR-2315-2021; Sotiropoulos,
+ Dionisios/AAR-1365-2021; Sakkopoulos, Evangelos/AAR-1256-2021; VIRVOU,
+ MARIA/AAR-1415-2021
+OI Panagoulias, Dimitris/0000-0002-9421-141X; Tsihrintzis,
+ George/0000-0002-2716-4035; Sakkopoulos, Evangelos/0000-0002-6852-384X;
+ Tsichrintzi, Evangelia-Aikaterini/0009-0009-3821-1333; VIRVOU,
+ MARIA/0000-0002-4008-4654
+SN 2169-3536
+PY 2025
+VL 13
+BP 141985
+EP 142006
+DI 10.1109/ACCESS.2025.3597213
+UT WOS:001552001300014
+ER 
+ 
+PT J
+AU Lu, Y
+AF Lu, Yao
+TI A Chinese perspective on artificial intelligence generated content and
+ copyright
+SO INFORMACIOS TARSADALOM
+RI Lu, Yao/JDD-0841-2023
+OI Lu, Yao/0000-0001-9277-5732
+SN 1587-8694
+PY 2024
+VL 24
+IS 2
+BP 129
+EP 142
+DI 10.22503/inftars.XXIV.2024.2.8
+UT WOS:001321132900001
+ER 
+ 
+PT J
+AU Ivanov, S
+AF Ivanov, Stanislav
+TI Responsible use of AI in social science research
+SO SERVICE INDUSTRIES JOURNAL
+RI Ivanov, Stanislav/D-7692-2012
+SN 0264-2069
+EI 1743-9507
+PD 2025 JUL 23
+PY 2025
+DI 10.1080/02642069.2025.2537115
+EA 45839
+UT WOS:001532712300001
+ER 
+ 
+PT J
+AU Liang, HY
+ Mao, X
+AF Liang, Haiying
+ Mao, Xu
+TI Students' attitudes toward generative artificial intelligence in
+ academic contexts: A multi-factor analysis
+SO INTERNATIONAL JOURNAL OF EDUCATIONAL DEVELOPMENT
+OI Liang, Haiying/0000-0002-8601-3763
+SN 0738-0593
+EI 1873-4871
+PD NOV
+PY 2025
+VL 119
+AR 103434
+DI 10.1016/j.ijedudev.2025.103434
+EA 45931
+UT WOS:001607345700003
+ER 
+ 
+PT J
+AU Oronoz, S
+ Pérez, AM
+ Peña-Martínez, J
+AF Oronoz, Soraya
+ Perez, Albert Miro
+ Pena-Martinez, Juan
+TI Exploring the Merchera Ethnic Group Through ChatGPT: The Risks of
+ Epistemic Exclusion
+SO INFORMATION
+RI ; Peña Martínez, Juan/Y-7654-2018
+OI Oronoz Rodríguez, Soraya/0000-0002-9355-3899; Peña Martínez,
+ Juan/0000-0001-9395-7976
+EI 2078-2489
+PD 46172
+PY 2025
+VL 16
+IS 6
+AR 461
+DI 10.3390/info16060461
+UT WOS:001516018700001
+ER 
+ 
+PT J
+AU Yu, QW
+ Tao, XY
+ Wang, JP
+AF Yu, Qianwen
+ Tao, Xuyuan
+ Wang, Jianping
+TI Sustainable Design on Intangible Cultural Heritage: Miao Embroidery
+ Pattern Generation and Application Based on Diffusion Models
+SO SUSTAINABILITY
+RI wang, jianping/HLP-8210-2023
+EI 2071-1050
+PD 46259
+PY 2025
+VL 17
+IS 17
+AR 7657
+DI 10.3390/su17177657
+UT WOS:001570062500001
+ER 
+ 
+PT J
+AU Chou, HM
+ Cho, TL
+AF Chou, Hsien-Ming
+ Cho, Tsai-Lun
+TI Utilizing Text Mining for Labeling Training Models from Futures Corpus
+ in Generative AI
+SO APPLIED SCIENCES-BASEL
+RI Chou, Hsien-Ming/AAM-2445-2020
+OI Chou, Hsien-Ming/0000-0002-4622-5032
+EI 2076-3417
+PD SEP
+PY 2023
+VL 13
+IS 17
+AR 9622
+DI 10.3390/app13179622
+UT WOS:001062657100001
+ER 
+ 
+PT J
+AU Wu, H
+ Zheng, J
+ He, CH
+ Xiao, HP
+ Luo, SJ
+AF Wu, Heng
+ Zheng, Jing
+ He, Chunhua
+ Xiao, Huapan
+ Luo, Shaojuan
+TI Terahertz image super-resolution restoration using a
+ hybrid-Transformer-based generative adversarial network
+SO OPTICS AND LASERS IN ENGINEERING
+RI Wu, Heng/AAE-3471-2019; Xiao, Huapan/J-5153-2016; Luo,
+ Shaojuan(Crystal)/P-5826-2014
+OI Wu, Heng/0000-0003-0832-2218; He, Chunhua/0000-0003-0826-3596;
+SN 0143-8166
+EI 1873-0302
+PD JUN
+PY 2025
+VL 189
+AR 108931
+DI 10.1016/j.optlaseng.2025.108931
+EA 45717
+UT WOS:001444383700001
+ER 
+ 
+PT J
+AU Ren, H
+ Sun, K
+ Zhao, FH
+ Zhu, X
+AF Ren, Hui
+ Sun, Ke
+ Zhao, Fanhua
+ Zhu, Xian
+TI Dunhuang murals image restoration method based on generative adversarial
+ network
+SO HERITAGE SCIENCE
+RI sun, ke/JBR-9935-2023
+SN 2050-7445
+PD 46055
+PY 2024
+VL 12
+IS 1
+AR 39
+DI 10.1186/s40494-024-01159-8
+UT WOS:001154709100003
+ER 
+ 
+PT J
+AU Guo, ZZ
+AF Guo, Zaozao
+TI Design and Development of an Intelligent Rendering System for New Year's
+ Paintings Color Based on B/S Architecture
+SO INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+SN 2158-107X
+EI 2156-5570
+PD SEP
+PY 2023
+VL 14
+IS 9
+BP 850
+EP 861
+UT WOS:001084687100001
+ER 
+ 
+PT J
+AU Kanont, K
+ Pingmuang, P
+ Simasathien, T
+ Wisnuwong, S
+ Wiwatsiripong, B
+ Poonpirome, K
+ Songkram, N
+ Khlaisang, J
+AF Kanont, Kraisila
+ Pingmuang, Pawarit
+ Simasathien, Thewawuth
+ Wisnuwong, Suchaya
+ Wiwatsiripong, Benz
+ Poonpirome, Kanitta
+ Songkram, Noawanit
+ Khlaisang, Jintavee
+TI Generative-AI, a Learning Assistant? Factors Influencing Higher-Ed
+ Students' Technology Acceptance
+SO ELECTRONIC JOURNAL OF E-LEARNING
+RI ; Pingmuang, Pawarit/NIS-7522-2025; Khlaisang, Jintavee/GLR-0565-2022;
+ Songkram, Noawanit/AAE-6842-2020
+OI Wisnuwong, Suchaya/0009-0007-2724-9964; Kanont,
+ Kraisila/0009-0004-9353-6441; Poonpirome, Kanitta/0009-0004-2838-1295;
+ Pingmuang, Pawarit/0000-0001-8881-4372; Simasathien,
+ Thewawuth/0009-0006-8491-1216; Wiwatsiripong, Benz/0009-0007-9045-9999;
+SN 1479-4403
+PD MAY
+PY 2024
+VL 22
+IS 6
+SI SI
+BP 18
+EP 33
+DI 10.34190/ejel.22.6.3196
+UT WOS:001327710100002
+ER 
+ 
+PT J
+AU Han, YY
+ Liu, DD
+ Ren, Y
+ Lei, ZP
+ Sun, LS
+ Li, JP
+AF Han, Yongyi
+ Liu, Diandong
+ Ren, Yi
+ Lei, Zepeng
+ Sun, Lianshan
+ Li, Jinping
+TI ChatCAS: A Multimodal Ceramic Multi-Agent Studio for Consultation, Image
+ Analysis and Generation
+SO ELECTRONICS
+RI ; ren, yi/MGA-3759-2025; Lei, Zepeng/GPT-4599-2022; li,
+ jinping/LPQ-2530-2024
+OI Liu, Diandong/0009-0003-7094-2511; sun, lianshan/0000-0002-5738-7862;
+ Han, yongyi/0009-0002-6523-4206; ren, yi/0009-0008-8453-9447;
+SN 2079-9292
+PD 46286
+PY 2025
+VL 14
+IS 18
+AR 3735
+DI 10.3390/electronics14183735
+UT WOS:001579793500001
+ER 
+ 
+PT J
+AU Niu, MH
+ Zhou, Y
+AF Niu, Minghui
+ Zhou, Ying
+TI The Optimization of Illustration Design in Cultural and Creative
+ Products for Liaoning Region Under Intelligent Generative Adversarial
+ Network
+SO IEEE ACCESS
+SN 2169-3536
+PY 2025
+VL 13
+BP 114746
+EP 114755
+DI 10.1109/ACCESS.2025.3583506
+UT WOS:001549800800006
+ER 
+ 
+PT J
+AU He, S
+ Lu, Y
+AF He, Shuai
+ Lu, Yu
+TI The effectiveness of Gen AI in assisting students' knowledge
+ construction in humanities and social sciences courses: learning
+ behaviour analysis
+SO INTERACTIVE LEARNING ENVIRONMENTS
+OI Lu, Yu/0009-0000-1243-3389
+SN 1049-4820
+EI 1744-5191
+PD 46351
+PY 2024
+VL 32
+IS 10
+BP 7041
+EP 7062
+DI 10.1080/10494820.2024.2415444
+EA 45566
+UT WOS:001339465800001
+ER 
+ 
+PT J
+AU Turner, MD
+ Appaji, A
+ Rakib, NA
+ Golnari, P
+ Rajasekar, AK
+ Rathnam, KVA
+ Sahoo, SS
+ Wang, Y
+ Wang, L
+ Turner, JA
+AF Turner, Matthew D.
+ Appaji, Abhishek
+ Rakib, Nibras Ar
+ Golnari, Pedram
+ Rajasekar, Arcot K.
+ Rathnam, K. V. Anitha
+ Sahoo, Satya S.
+ Wang, Yue
+ Wang, Lei
+ Turner, Jessica A.
+TI Large language models can extract metadata for annotation of human
+ neuroimaging publications
+SO FRONTIERS IN NEUROINFORMATICS
+RI Golnari, Peam/B-6300-2011; Appaji, Abhishek/M-8518-2016
+OI Golnari, Peam/0000-0002-2154-1645; Appaji, Abhishek/0000-0002-1978-6037
+EI 1662-5196
+PD 46254
+PY 2025
+VL 19
+AR 1609077
+DI 10.3389/fninf.2025.1609077
+UT WOS:001562236300001
+PM 40909182
+ER 
+ 
+PT J
+AU Wang, YL
+ Xi, YC
+ Liu, XX
+ Gan, Y
+AF Wang, Yali
+ Xi, Yuchen
+ Liu, Xinxiong
+ Gan, Yan
+TI Exploring the Dual Potential of Artificial Intelligence-Generated
+ Content in the Esthetic Reproduction and Sustainable Innovative Design
+ of Ming-Style Furniture
+SO SUSTAINABILITY
+OI Gan, Yan/0000-0003-4819-4599
+EI 2071-1050
+PD JUN
+PY 2024
+VL 16
+IS 12
+AR 5173
+DI 10.3390/su16125173
+UT WOS:001256826000001
+ER 
+ 
+PT J
+AU Law, T
+ Roberto, E
+AF Law, Tina
+ Roberto, Elizabeth
+TI Generative Multimodal Models for Social Science: An Application with
+ Satellite and Streetscape Imagery
+SO SOCIOLOGICAL METHODS & RESEARCH
+OI Law, Tina/0000-0001-7631-6763; Roberto, Elizabeth/0000-0001-7667-6953
+SN 0049-1241
+EI 1552-8294
+PD AUG
+PY 2025
+VL 54
+IS 3
+SI SI
+BP 889
+EP 932
+DI 10.1177/00491241251339673
+EA 45778
+UT WOS:001497324300001
+ER 
+ 
+PT J
+AU Chen, DL
+ Cheng, PP
+AF Chen, Daoling
+ Cheng, Pengpeng
+TI AIGC empowers the sustainable development of traditional Chinese
+ paper-cut
+SO DIGITAL SCHOLARSHIP IN THE HUMANITIES
+SN 2055-7671
+EI 2055-768X
+PD DEC
+PY 2025
+VL 40
+IS 4
+BP 1115
+EP 1125
+DI 10.1093/llc/fqaf053
+EA 45901
+UT WOS:001574528400001
+ER 
+ 
+PT J
+AU Kumar, P
+ Gupta, V
+AF Kumar, Praveen
+ Gupta, Varun
+TI Restoration of damaged artworks based on a generative adversarial
+ network
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+RI Gupta, Varun/KFA-9728-2024
+OI Gupta, Varun/0000-0002-2633-5920
+SN 1380-7501
+EI 1573-7721
+PD NOV
+PY 2023
+VL 82
+IS 26
+BP 40967
+EP 40985
+DI 10.1007/s11042-023-15222-2
+EA 45017
+UT WOS:000963639900006
+ER 
+ 
+PT J
+AU Raman, R
+ Sreenivasan, A
+ Suresh, M
+ Gunasekaran, A
+ Nedungadi, P
+AF Raman, Raghu
+ Sreenivasan, Aswathy
+ Suresh, M.
+ Gunasekaran, Angappa
+ Nedungadi, Prema
+TI AI-driven education: a comparative study on ChatGPT and Bard in supply
+ chain management contexts
+SO COGENT BUSINESS & MANAGEMENT
+RI Nedungadi, Prema/ODJ-1776-2025; Gunasekaran, Angappa/AEZ-0121-2022;
+ Sreenivasan, Aswathy/AHI-7754-2022; Raman, Raghu/AAL-9550-2020
+OI Nedungadi, Prema/0000-0001-8774-3541; Sreenivasan,
+ Aswathy/0000-0001-5874-6444;
+SN 2331-1975
+PD 46387
+PY 2024
+VL 11
+IS 1
+AR 2412742
+DI 10.1080/23311975.2024.2412742
+UT WOS:001335433500001
+ER 
+ 
+PT J
+AU Gurbych, S
+AF Gurbych, Sergii
+TI THE YIDDISH NATION AS AN IMAGINED COMMUNITY: UTILISING LLMS FOR THE
+ ANALYSIS OF CULTURAL IDENTITY THROUGH ARCHIVAL DOCUMENTS1
+SO LITHUANIAN HISTORICAL STUDIES
+RI Gurbych, Sergii/MVU-4821-2025
+OI Gurbych, Sergii/0000-0002-3495-0130
+SN 1392-2343
+EI 2538-6565
+PD NOV
+PY 2025
+VL 29
+IS 1
+BP 99
+EP 126
+DI 10.30965/25386565-02901004
+UT WOS:001643342200004
+ER 
+ 
+PT J
+AU Basu, A
+ Paul, S
+ Ghosh, S
+ Das, S
+ Chanda, B
+ Bhagvati, C
+ Snasel, V
+AF Basu, Arkaprabha
+ Paul, Sandip
+ Ghosh, Sreeya
+ Das, Swagatam
+ Chanda, Bhabatosh
+ Bhagvati, Chakravarthy
+ Snasel, Vaclav
+TI Digital Restoration of Cultural Heritage With Data-Driven Computing: A
+ Survey
+SO IEEE ACCESS
+RI Snasel, Vaclav/B-8094-2009; Das, Swagatam/AAG-6753-2019
+OI Snasel, Vaclav/0000-0002-9600-8319; , Sreeya/0000-0002-2414-7205; Basu,
+ Arkaprabha/0000-0003-0136-0887; Das, Swagatam/0000-0001-6843-4508
+SN 2169-3536
+PY 2023
+VL 11
+BP 53939
+EP 53977
+DI 10.1109/ACCESS.2023.3280639
+UT WOS:001005659000001
+ER 
+ 
+PT J
+AU Cossatin, AG
+ Mauro, N
+ Ferrero, F
+ Ardissono, L
+AF Cossatin, Angelo Geninatti
+ Mauro, Noemi
+ Ferrero, Fabio
+ Ardissono, Liliana
+TI Tell me more: integrating LLMs in a cultural heritage website for
+ advanced information exploration support
+SO INFORMATION TECHNOLOGY & TOURISM
+RI Ardissono, Liliana/C-8371-2011; Geninatti Cossatin, Angelo/KTI-2454-2024
+OI Geninatti Cossatin, Angelo/0009-0007-5378-7061; Mauro,
+ Noemi/0000-0001-8234-3266
+SN 1098-3058
+EI 1943-4294
+PD JUN
+PY 2025
+VL 27
+IS 2
+BP 385
+EP 416
+DI 10.1007/s40558-025-00312-8
+EA 45658
+UT WOS:001407581600001
+ER 
+ 
+PT J
+AU Luo, L
+ Ning, JZ
+ Zhao, YW
+ Wang, ZJ
+ Ding, ZY
+ Chen, P
+ Fu, WR
+ Han, QY
+ Xu, GT
+ Qiu, YZ
+ Pan, DH
+ Li, JR
+ Li, H
+ Feng, WD
+ Tu, SB
+ Liu, YQ
+ Yang, ZH
+ Wang, J
+ Sun, YY
+ Lin, HF
+AF Luo, Ling
+ Ning, Jinzhong
+ Zhao, Yingwen
+ Wang, Zhijun
+ Ding, Zeyuan
+ Chen, Peng
+ Fu, Weiru
+ Han, Qinyu
+ Xu, Guangtao
+ Qiu, Yunzhi
+ Pan, Dinghao
+ Li, Jiru
+ Li, Hao
+ Feng, Wenduo
+ Tu, Senbo
+ Liu, Yuqi
+ Yang, Zhihao
+ Wang, Jian
+ Sun, Yuanyuan
+ Lin, Hongfei
+TI Taiyi: a bilingual fine-tuned large language model for diverse
+ biomedical tasks
+SO JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION
+RI ; Luo, Ling/AAA-3476-2019
+OI Han, Qinyu/0009-0000-1178-5462; chen, peng/0000-0002-0975-236X; li,
+ hao/0009-0007-0161-3932;
+SN 1067-5027
+EI 1527-974X
+PD 47150
+PY 2024
+VL 31
+IS 9
+BP 1865
+EP 1874
+DI 10.1093/jamia/ocae037
+EA 45323
+UT WOS:001178054000001
+PM 38422367
+ER 
+ 
+PT J
+AU Liu, Y
+ Chen, YD
+ Fang, ZZ
+AF Liu, Yang
+ Chen, Yudie
+ Fang, Zhongzheng
+TI Study on the Impact of AIGC Technology Integration Application on
+ Consumer Behavioral Intentions of Chinese Ethnic Minority Cultures
+SO SAGE OPEN
+RI Fang, Zhongzheng/AAJ-5252-2021
+OI Fang, Zhongzheng/0000-0001-7365-0918
+SN 2158-2440
+PD OCT
+PY 2025
+VL 15
+IS 4
+AR 21582440251407600
+DI 10.1177/21582440251407654
+UT WOS:001647695200001
+ER 
+ 
+PT J
+AU Tiribelli, S
+ Pansoni, S
+ Frontoni, E
+ Giovanola, B
+AF Tiribelli, Simona
+ Pansoni, Sofia
+ Frontoni, Emanuele
+ Giovanola, Benedetta
+TI Ethics of Artificial Intelligence for Cultural Heritage: Opportunities
+ and Challenges
+SO IEEE TRANSACTIONS ON TECHNOLOGY AND SOCIETY
+RI Tiribelli, Simona/AGF-6841-2022; Frontoni, Emanuele/D-9838-2013;
+ Giovanola, Benedetta/HOC-5266-2023
+OI pansoni, sofia/0009-0003-7718-7475
+EI 2637-6415
+PD SEP
+PY 2024
+VL 5
+IS 3
+BP 293
+EP 305
+DI 10.1109/TTS.2024.3432407
+UT WOS:001645989800007
+ER 
+ 
+PT J
+AU Cui, YR
+ Li, M
+AF Cui, Yiran
+ Li, Meng
+TI Factors affecting vocational education teachers' adoption of Gen AI: a
+ multi-group analysis by discipline and region
+SO INTERACTIVE LEARNING ENVIRONMENTS
+OI Cui, Yiran/0000-0003-3395-0240
+SN 1049-4820
+EI 1744-5191
+PD 2025 NOV 6
+PY 2025
+DI 10.1080/10494820.2025.2583194
+EA 45962
+UT WOS:001609181800001
+ER 
+ 
+PT J
+AU Sebastian, J
+ Moon, JM
+ Camburn, E
+AF Sebastian, James
+ Moon, Jeong-Mi
+ Camburn, Eric
+TI Enhancing Quantitative Analysis in Social Sciences With Large Language
+ Models (LLMs): A Methodological Case Study in Educational Research
+SO AERA OPEN
+OI Moon, Jeong-Mi/0000-0002-6203-4391
+EI 2332-8584
+PY 2025
+VL 11
+AR 23328584251389600
+DI 10.1177/23328584251389621
+UT WOS:001636213200001
+ER 
+ 
+PT J
+AU Windisch, P
+ Dennstädt, F
+ Weyrich, J
+ Schröder, C
+ Zwahlen, DR
+ Förster, R
+AF Windisch, Paul
+ Dennstadt, Fabio
+ Weyrich, Julia
+ Schroder, Christina
+ Zwahlen, Daniel R.
+ Forster, Robert
+TI Reasoning Models for Text Mining in Oncology: A Comparison Between o1
+ Preview, GPT-4o, and GPT-5 at Different Reasoning Levels
+SO JCO CLINICAL CANCER INFORMATICS
+RI Dennstädt, Fabio/AGE-9074-2022; Schroeder, Christina/OXB-3866-2025;
+ Windisch, Paul/JVD-5169-2023
+OI Dennstädt, Fabio/0000-0002-5374-8720; Windisch,
+ Paul/0000-0003-1040-4888; Zwahlen, Daniel/0000-0003-4359-7735
+SN 2473-4276
+PD NOV
+PY 2025
+VL 9
+AR e2400311
+DI 10.1200/CCI-24-00311
+UT WOS:001610944100001
+PM 41197109
+ER 
+ 
+PT J
+AU Çetinkaya, A
+AF Cetinkaya, Ali
+TI A Systems Approach to Validating Large Language Model Information
+ Extraction: The Learnability Framework Applied to Historical Legal Texts
+SO INFORMATION
+RI Çetinkaya, Ali/AAO-4213-2020
+OI Çetinkaya, Ali/0000-0002-7747-6854
+EI 2078-2489
+PD 46331
+PY 2025
+VL 16
+IS 11
+AR 960
+DI 10.3390/info16110960
+UT WOS:001623913200001
+ER 
+ 
+PT J
+AU Zhou, YQ
+ Liu, Y
+ Shao, YX
+ Chen, JM
+AF Zhou, Yaqin
+ Liu, Yu
+ Shao, Yuxin
+ Chen, Junming
+TI Fine-tuning diffusion model to generate new kite designs for the
+ revitalization and innovation of intangible cultural heritage
+SO SCIENTIFIC REPORTS
+RI Chen, Junming/JGM-2773-2023
+OI Chen, Junming/0000-0001-6406-0924
+SN 2045-2322
+PD 46085
+PY 2025
+VL 15
+IS 1
+AR 7519
+DI 10.1038/s41598-025-92225-z
+UT WOS:001436277100002
+PM 40032964
+ER 
+ 
+PT J
+AU Lin, HCK
+ Lu, RS
+ Wang, TH
+AF Lin, Hao-Chiang Koong
+ Lu, Ruei-Shan
+ Wang, Tao-Hua
+TI Writing Is Coding for Sustainable Futures: Reimagining Poetic Expression
+ Through Human-AI Dialogues in Environmental Storytelling and Digital
+ Cultural Heritage
+SO SUSTAINABILITY
+RI Lin, Hao-Chiang Koong/AAE-8343-2020
+OI Lin, Hao-Chiang Koong/0000-0001-9824-6938; Wang,
+ Tao-Hua/0000-0003-2134-3515
+EI 2071-1050
+PD 46235
+PY 2025
+VL 17
+IS 15
+AR 7020
+DI 10.3390/su17157020
+UT WOS:001549753300001
+ER 
+ 
+PT J
+AU Pérez-Portabella, A
+ de Andrés-Sánchez, J
+ Arias-Oliva, M
+ Souto-Romero, M
+AF Perez-Portabella, Antonio
+ de Andres-Sanchez, Jorge
+ Arias-Oliva, Mario
+ Souto-Romero, Mar
+TI Integrating Machine Learning Techniques and the Theory of Planned
+ Behavior to Assess the Drivers of and Barriers to the Use of Generative
+ Artificial Intelligence: Evidence in Spain
+SO ALGORITHMS
+RI de Andrés-Sánchez, Jorge/F-7766-2016; Arias-Oliva, Mario/ABA-3225-2021;
+ Souto Romero, Mar/AAE-9211-2021
+OI de Andrés-Sánchez, Jorge/0000-0002-7715-779X; Arias-Oliva,
+ Mario/0000-0002-6874-4036; Souto Romero, Mar/0000-0001-9364-3539
+EI 1999-4893
+PD 46206
+PY 2025
+VL 18
+IS 7
+AR 410
+DI 10.3390/a18070410
+UT WOS:001539585400001
+ER 
+ 
+PT J
+AU Tian, Z
+ Wang, X
+ Tan, Y
+ Na, HJ
+ Kim, C
+AF Tian, Ziyi
+ Wang, Xiao
+ Tan, Yuwei
+ Na, Hyung Jong
+ Kim, Cheong
+TI Utilizing unstructured data to predict the art museum visitor numbers
+ using deep learning approaches
+SO SCIENTIFIC REPORTS
+RI Kim, Cheong/OYE-8362-2025
+SN 2045-2322
+PD 46350
+PY 2025
+VL 15
+IS 1
+AR 41684
+DI 10.1038/s41598-025-25582-4
+UT WOS:001622542800020
+PM 41286246
+ER 
+ 
+PT J
+AU Lin, YN
+ Feng, YJ
+ Li, J
+ MacInnis, E
+ Yang, C
+AF Lin, Yinan
+ Feng, Yujiao
+ Li, Jing
+ MacInnis, Elyn
+ Yang, Chen
+TI Understanding the landscape of a modern Chinese city and summer resort
+ from a missionary's perspective: text mining 'Beard Family Papers' via
+ large language models
+SO LANDSCAPE RESEARCH
+RI Li, Jing/ACA-6936-2022; Lin, Yinan/PIH-4429-2026
+OI Li, Jing/0000-0003-4960-3331; Lin, Yinan/0009-0005-6618-8637;
+SN 0142-6397
+EI 1469-9710
+PD 46252
+PY 2025
+VL 50
+IS 6
+BP 1007
+EP 1024
+DI 10.1080/01426397.2025.2484193
+EA 45748
+UT WOS:001469038100001
+ER 
+ 
+PT J
+AU Chen, YQ
+ Shang, WY
+ Wang, HS
+ Zhang, S
+ Bol, PK
+AF Chen, Yuqi
+ Shang, Wenyi
+ Wang, Hongsu
+ Zhang, Sophia
+ Bol, Peter K.
+TI Geocoding the past world: unearthing coordinates of early China from
+ texts using generative AI
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+SN 1365-8816
+EI 1362-3087
+PD 46085
+PY 2026
+VL 40
+IS 3
+SI SI
+BP 781
+EP 807
+DI 10.1080/13658816.2025.2491711
+EA 45748
+UT WOS:001475937800001
+ER 
+ 
+PT J
+AU Papyshev, G
+AF Papyshev, Gleb
+TI Situated usage of generative AI in policy education: implications for
+ teaching, learning, and research
+SO JOURNAL OF ASIAN PUBLIC POLICY
+OI Papyshev, Gleb/0000-0002-4582-4973
+SN 1751-6234
+EI 1751-6242
+PD 46146
+PY 2025
+VL 18
+IS 2
+SI SI
+BP 311
+EP 328
+DI 10.1080/17516234.2024.2370716
+EA 45444
+UT WOS:001251604700001
+ER 
+ 
+PT J
+AU Sakamoto, Y
+ Uchida, T
+ Ishiguro, H
+AF Sakamoto, Yuki
+ Uchida, Takahisa
+ Ishiguro, Hiroshi
+TI Value-based large language model agent simulation for mutual evaluation
+ of trust and interpersonal closeness
+SO SCIENTIFIC REPORTS
+OI Uchida, Takahisa/0000-0003-2458-500X; Sakamoto, Yuki/0009-0002-2143-1785
+SN 2045-2322
+PD 46350
+PY 2025
+VL 15
+IS 1
+AR 41653
+DI 10.1038/s41598-025-25531-1
+UT WOS:001622542800045
+PM 41285997
+ER 
+ 
+PT J
+AU Li, YH
+ Ma, CH
+ Yu, LS
+AF Li, Yuhang
+ Ma, Chunhao
+ Yu, Lisai
+TI Artificial intelligence and digital Nationalism: A social media
+ discourse analysis
+SO TECHNOLOGY IN SOCIETY
+RI Ma, Chunhao/JPL-5060-2023
+OI Ma, Chunhao/0000-0001-6846-3608
+SN 0160-791X
+EI 1879-3274
+PD JUN
+PY 2026
+VL 85
+AR 103197
+DI 10.1016/j.techsoc.2025.103197
+EA 45992
+UT WOS:001643293300001
+ER 
+ 
+PT J
+AU Shi, X
+ Zhao, JJ
+ Ge, SN
+ Zhao, XQ
+ Zhang, WU
+AF Shi, Xin
+ Zhao, Jingjie
+ Ge, Sunan
+ Zhao, Xueqing
+ Zhang, Wenh Ui
+TI Structure-Color Coordinated Generation for Tang Dynasty Tuanke Patterns:
+ Facilitating Living Conservation and Dissemination via Accessible
+ Intelligent Design
+SO ACM JOURNAL ON COMPUTING AND CULTURAL HERITAGE
+OI zhao, jingjie/0000-0002-2237-0446
+SN 1556-4673
+EI 1556-4711
+PD DEC
+PY 2025
+VL 18
+IS 4
+AR 71
+DI 10.1145/3774910
+UT WOS:001650591800001
+ER 
+ 
+PT J
+AU Yang, MH
+ Jiang, SY
+ Li, BL
+ Herman, K
+ Luo, T
+ Moots, SC
+ Lovett, N
+AF Yang, Mohan
+ Jiang, Shiyan
+ Li, Belle
+ Herman, Kristin
+ Luo, Tian
+ Moots, Shanan Chappell
+ Lovett, Nolan
+TI Analysing nontraditional students' ChatGPT interaction, engagement,
+ self-efficacy and performance: A mixed-methods approach
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+RI LUO, TIAN/J-3742-2019; Li, Belle/JXW-8400-2024; Jiang,
+ Shiyan/HTO-6720-2023; Lovett, Nolan/MSW-6655-2025
+OI Jiang, Shiyan/0000-0003-4781-846X; Lovett, Nolan/0009-0003-1982-830X
+SN 0007-1013
+EI 1467-8535
+PD SEP
+PY 2025
+VL 56
+IS 5
+BP 1973
+EP 2000
+DI 10.1111/bjet.13588
+UT WOS:001551870600020
+ER 
+ 
+PT J
+AU Pellas, N
+AF Pellas, Nikolaos
+TI Effects of Generative AI Feedback and Interactive Video Assessment on
+ Student Learning Achievement in Philological Content Creation Courses
+SO JOURNAL OF EDUCATIONAL COMPUTING RESEARCH
+RI Pellas, Nikolaos/S-8996-2016
+OI Pellas, Nikolaos/0000-0002-3071-6275
+SN 0735-6331
+EI 1541-4140
+PD JAN
+PY 2026
+VL 64
+IS 1
+BP 16
+EP 58
+DI 10.1177/07356331251372800
+EA 45901
+UT WOS:001562391000001
+ER 
+ 
+PT J
+AU Lee, EJ
+ Park, SJ
+AF Lee, Eun Ji
+ Park, Sung Jun
+TI A structured prompt framework for AI-generated biophilic architectural
+ spaces
+SO JOURNAL OF BUILDING ENGINEERING
+OI Lee, Eun Ji/0000-0003-3948-1641
+EI 2352-7102
+PD 46296
+PY 2025
+VL 111
+AR 113326
+DI 10.1016/j.jobe.2025.113326
+EA 45809
+UT WOS:001530665400001
+ER 
+ 
+PT J
+AU Peng, XT
+ Tew, YS
+ Zhao, K
+ Wang, C
+ Li, RA
+ Hu, SY
+ Wang, XA
+AF Peng, Xiting
+ Tew, Yi Shen
+ Zhao, Kai
+ Wang, Chi
+ Li, Ren'ai
+ Hu, Shanying
+ Wang, Xiaonan
+TI Unlocking deep eutectic solvent knowledge through a large language
+ model-driven framework and an interactive AI agent
+SO GREEN CHEMICAL ENGINEERING
+RI Li, Renai/JDC-6687-2023; Wang, Xiaonan/T-1102-2017; Tew, Yi
+ Shen/KUC-7580-2024
+OI Wang, Chi/0009-0009-5842-1274; Zhao, Kai/0000-0001-5875-6618; Tew, Yi
+ Shen/0009-0000-2686-3566;
+SN 2096-9147
+EI 2666-9528
+PD DEC
+PY 2025
+VL 6
+IS 4
+BP 572
+EP 581
+DI 10.1016/j.gce.2025.05.006
+UT WOS:001575624700001
+ER 
+ 
+PT J
+AU Mitra, R
+ Mukhopadhyay, P
+AF Mitra, Roshni
+ Mukhopadhyay, Parthasarathi
+TI Machine Learning Applications in Digital Humanities: Designing a
+ Semi-automated Subject Indexing System for a Low-resource Domain
+SO DESIDOC JOURNAL OF LIBRARY & INFORMATION TECHNOLOGY
+RI Mukhopadhyay, PS/JCE-1562-2023
+SN 0974-0643
+EI 0976-4658
+PD JUL
+PY 2023
+VL 43
+IS 4
+BP 219
+EP 225
+DI 10.14429/djlit.43.4.19227
+UT WOS:001108855100005
+ER 
+ 
+PT J
+AU Liang, J
+ Li, YX
+ Xiong, ZL
+ Huang, Q
+AF Liang, Jun
+ Li, Yixin
+ Xiong, Zhileng
+ Huang, Qing
+TI Advancing lacquerware design through human-AI collaboration with
+ controllable diffusion models
+SO SCIENTIFIC REPORTS
+OI li, yixin/0009-0002-9290-5300; , Xiong Zhileng/0009-0002-8632-9028
+SN 2045-2322
+PD 46374
+PY 2025
+VL 16
+IS 1
+AR 421
+DI 10.1038/s41598-025-33119-y
+UT WOS:001654840800001
+PM 41413203
+ER 
+ 
+PT J
+AU Xu, ZS
+ Zhang, XF
+ Yang, YQ
+ Chen, W
+ Liu, JT
+ Xu, TT
+ Wang, ZH
+ El Saddik, A
+AF Xu, Zishan
+ Zhang, Xiaofeng
+ Yang, Yuqing
+ Chen, Wei
+ Liu, Jueting
+ Xu, Tingting
+ Wang, Zehua
+ El Saddik, Abdulmotaleb
+TI MuralAgent: Enhancing Ancient Mural Outpainting with RAG-Based Texts and
+ Multimodal Integration
+SO ACM TRANSACTIONS ON MULTIMEDIA COMPUTING COMMUNICATIONS AND APPLICATIONS
+RI ; El Saddik, Abdulmotaleb/D-4159-2009
+OI Wang, Zehua/0000-0001-9040-847X; Liu, Jueting/0009-0004-2986-2605; xu,
+ zishan/0009-0004-5671-216X; Chen, Wei/0000-0002-7663-278X; Zhang,
+ Xiaofeng/0000-0002-7185-4682;
+SN 1551-6857
+EI 1551-6865
+PD SEP
+PY 2025
+VL 21
+IS 9
+AR 267
+DI 10.1145/3743679
+UT WOS:001578734000001
+ER 
+ 
+PT J
+AU Qiu, W
+ Su, CL
+ Jamil, NB
+ Thway, M
+ Ng, SSH
+ Zhang, L
+ Lim, FS
+ Lai, JW
+AF Qiu, Wei
+ Su, Chit Lin
+ Jamil, Nurabidah Binti
+ Thway, Maung
+ Ng, Samuel Soo Hwee
+ Zhang, Lei
+ Lim, Fun Siong
+ Lai, Joel Weijia
+TI A Systematic Approach to Evaluate the Use of Chatbots in Educational
+ Contexts: Learning Gains, Engagements and Perceptions
+SO COMPUTERS
+RI Thway, Maung/AAF-6650-2020; Lai, Joel Weijia/HPF-5537-2023; Qiu,
+ Wei/R-8451-2016
+OI Thway, Maung/0000-0003-4904-0639; Lai, Joel Weijia/0000-0002-5619-2051;
+ Qiu, Wei/0000-0003-4030-9718; Lim, Fun Siong/0000-0001-8887-6047
+SN 2073-431X
+PD 46212
+PY 2025
+VL 14
+IS 7
+AR 270
+DI 10.3390/computers14070270
+UT WOS:001539703100001
+ER 
+ 
+PT J
+AU Mugaanyi, J
+ Cai, LY
+ Cheng, SM
+ Lu, CD
+ Huang, J
+AF Mugaanyi, Joseph
+ Cai, Liuying
+ Cheng, Sumei
+ Lu, Caide
+ Huang, Jing
+TI Evaluation of Large Language Model Performance and Reliability for
+ Citations and References in Scholarly Writing: Cross-Disciplinary Study
+SO JOURNAL OF MEDICAL INTERNET RESEARCH
+RI Mugaanyi, Joseph/HHZ-1402-2022
+OI Mugaanyi, Joseph/0000-0003-1688-5475; Cai, Liuying/0009-0005-2648-1839
+SN 1438-8871
+PD 46117
+PY 2024
+VL 26
+AR e52935
+DI 10.2196/52935
+UT WOS:001218265100001
+PM 38578685
+ER 
+ 
+PT J
+AU Qu, Y
+ Loo, HE
+ Wang, J
+AF Qu, Yao
+ Loo, Hui En
+ Wang, Jue
+TI Generative artificial intelligence in higher education: Emotional
+ tensions and ethical declaration
+SO BRITISH JOURNAL OF EDUCATIONAL TECHNOLOGY
+RI Wang, Jue/P-6168-2014
+OI Wang, Jue/0000-0002-3401-713X
+SN 0007-1013
+EI 1467-8535
+PD 2025 NOV 24
+PY 2025
+DI 10.1111/bjet.70029
+EA 45962
+UT WOS:001620882400001
+ER 
+ 
+PT J
+AU Velilla, MC
+ Ferran-Ferrer, N
+AF Velilla, Miquel Centelles
+ Ferran-Ferrer, Nuria
+TI Using Wikidata's Ontology in Practice: A Neuro-Symbolic,
+ Community-Centred Workflow for Integrating and Reusing Humanities
+ Datasets
+SO JOURNAL OF OPEN HUMANITIES DATA
+RI Ferran Ferrer, Nuria/IYS-7492-2023
+OI Ferran Ferrer, Nuria/0000-0002-9037-8837; Centelles Velilla,
+ Miquel/0000-0003-1739-4889
+EI 2059-481X
+PY 2025
+VL 11
+AR 84
+DI 10.5334/johd.439
+UT WOS:001656528300002
+ER 
+ 
+PT J
+AU Chen, MY
+ Kuo, FK
+ Hsiao, KL
+AF Chen, Mu-Yen
+ Kuo, Fu-Kai
+ Hsiao, Kuo-Lun
+TI From Content to Conversation: Explaining Adoption of On-Device
+ Generative AI Tour Guides
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+RI ; Chen, Mu-Yen/AAO-6568-2021
+OI KUO, FU-KAI/0009-0005-3932-0540; Chen, Mu-Yen/0000-0002-3945-4363;
+ Hsiao, Kuo-Lun/0000-0002-1409-0778
+SN 1044-7318
+EI 1532-7590
+PD 2025 DEC 30
+PY 2025
+DI 10.1080/10447318.2025.2604631
+EA 45992
+UT WOS:001651855000001
+ER 
+ 
+PT J
+AU Dai, MG
+ Feng, YH
+ Wang, RQ
+ Jung, JH
+AF Dai, Mengge
+ Feng, Yuhao
+ Wang, Runqi
+ Jung, Jungho
+TI Enhancing the Digital Inheritance and Development of Chinese Intangible
+ Cultural Heritage Paper-Cutting Through Stable Diffusion LoRA Models
+SO APPLIED SCIENCES-BASEL
+OI DAI, MENGGE/0009-0001-2752-6753
+EI 2076-3417
+PD DEC
+PY 2024
+VL 14
+IS 23
+AR 11032
+DI 10.3390/app142311032
+UT WOS:001376297800001
+ER 
+ 
+PT J
+AU Mohammadi, E
+ Thelwall, M
+ Cai, YZ
+ Collier, T
+ Tahamtan, I
+ Eftekhar, A
+AF Mohammadi, Ehsan
+ Thelwall, Mike
+ Cai, Yizhou
+ Collier, Taylor
+ Tahamtan, Iman
+ Eftekhar, Azar
+TI Is generative AI reshaping academic practices worldwide? A survey of
+ adoption, benefits, and concerns
+SO INFORMATION PROCESSING & MANAGEMENT
+RI Tahamtan, Iman/M-3115-2016; Mohammadi, Ehsan/V-3149-2019; CAI,
+ YIZHOU/NHO-9796-2025; Thelwall, Mike/JDV-4700-2023
+OI Mohammadi, Ehsan/0000-0003-3481-6991; CAI, YIZHOU/0009-0006-7735-1839;
+ Thelwall, Mike/0000-0001-6065-205X
+SN 0306-4573
+EI 1873-5371
+PD JAN
+PY 2026
+VL 63
+IS 1
+AR 104350
+DI 10.1016/j.ipm.2025.104350
+EA 45870
+UT WOS:001555739200001
+ER 
+ 
+PT J
+AU Spennemann, DHR
+AF Spennemann, Dirk H. R.
+TI Will Artificial Intelligence Affect How Cultural Heritage Will Be
+ Managed in the Future? Responses Generated by Four genAI Models
+SO HERITAGE
+RI Spennemann, Dirk/J-4199-2016
+OI Spennemann, Dirk/0000-0003-2639-7950
+SN 2571-9408
+PD MAR
+PY 2024
+VL 7
+IS 3
+BP 1453
+EP 1471
+DI 10.3390/heritage7030070
+UT WOS:001192721900001
+ER 
+ 
+PT J
+AU Wan, YN
+AF Wan, Yau-Ni
+TI Language Differences in Online Complaint Responses between Generative
+ Artificial Intelligence and Hotel Managers
+SO INFORMATICS-BASEL
+RI Wan, Yau Ni/JRY-7499-2023
+OI Wan, Yau Ni/0000-0002-7585-1745
+EI 2227-9709
+PD SEP
+PY 2024
+VL 11
+IS 3
+AR 66
+DI 10.3390/informatics11030066
+UT WOS:001323595500001
+ER 
+ 
+PT J
+AU Niu, YM
+ Wu, J
+ Jiang, SY
+ Jiang, ZB
+AF Niu, Yimeng
+ Wu, Jing
+ Jiang, Shenyang
+ Jiang, Zhibin
+TI The Bullwhip Effect in Servitized Manufacturers
+SO MANAGEMENT SCIENCE
+RI Wu, Jing/KIA-4914-2024
+OI Wu, Jing/0000-0002-0153-7710; Jiang, Zhibin/0000-0002-9241-0212
+SN 0025-1909
+EI 1526-5501
+PD JAN
+PY 2025
+VL 71
+IS 1
+BP 1
+EP 20
+DI 10.1287/mnsc.2023.01026
+EA 45383
+UT WOS:001217305600001
+ER 
+ 
+PT J
+AU Tan, HM
+ Zhan, SX
+ Jia, FW
+ Zheng, HT
+ Chan, WK
+AF Tan, Hongming
+ Zhan, Shaoxiong
+ Jia, Fengwei
+ Zheng, Hai-Tao
+ Chan, Wai Kin (Victor)
+TI A hierarchical framework for measuring scientific paper innovation via
+ large language models
+SO INFORMATION SCIENCES
+RI Zhan, Shaoxiong/LWJ-9056-2024
+OI Zhan, Shaoxiong/0009-0000-1150-2856; Zheng, Hai-Tao/0000-0001-5128-5649;
+ Tan, Hongming/0009-0002-1857-0100
+SN 0020-0255
+EI 1872-6291
+PD FEB
+PY 2026
+VL 728
+AR 122787
+DI 10.1016/j.ins.2025.122787
+EA 45931
+UT WOS:001606446100002
+ER 
+ 
+PT J
+AU Calderon, R
+ Herrera, F
+AF Calderon, Reyes
+ Herrera, Francisco
+TI And Plato met ChatGPT: an ethical reflection on the use of chatbots in
+ scientific research writing, with a particular focus on the social
+ sciences
+SO HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+RI ; Herrera, Francisco/K-9019-2017
+OI Calderón, Reyes/0000-0002-8944-8375;
+EI 2662-9992
+PD 46168
+PY 2025
+VL 12
+IS 1
+AR 713
+DI 10.1057/s41599-025-04650-0
+UT WOS:001495061500003
+ER 
+ 
+EF 
