@@ -1,84 +1,83 @@
-# -*- coding: utf-8 -*-
-import pandas as pd
+import re
+import csv
+from collections import defaultdict
+import os
 
-# ====================== 1. 自动读取并转换 WoS 文本 ======================
-def parse_wos_txt(filepath):
-    records = []
-    current = {}
-    with open(filepath, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-    for line in lines:
-        line = line.strip()
-        if not line:
+def parse_wos_file(file_path):
+    """解析Web of Science导出的纯文本格式文件"""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    
+    # 按文献分割（每篇文献以PT开头，ER结尾）
+    records = re.split(r'^ER\n', content, flags=re.M)
+    parsed_records = []
+    
+    for record in records:
+        if not record.strip():
             continue
-        if len(line) >= 3 and line[2] == ' ':
-            field = line[:2]
-            val = line[3:].strip()
-            if field in current:
-                current[field] += ' ' + val
+        
+        data = defaultdict(str)
+        current_field = None
+        current_value = []
+        
+        for line in record.split('\n'):
+            line = line.rstrip('\n')
+            if not line.strip():
+                continue
+            
+            # 识别字段（WoS格式：前两个字符是字段码，后跟空格）
+            # 修复：访问line[2]需要长度至少为3
+            if len(line) >= 3 and line[2] == ' ':
+                if current_field:
+                    data[current_field] = ' '.join(current_value).strip()
+                
+                current_field = line[:2].strip()
+                current_value = [line[3:].strip()]
             else:
-                current[field] = val
-            if field == 'UT':
-                records.append(current.copy())
-                current = {}
-    return pd.DataFrame(records)
+                # 多行字段的续行
+                current_value.append(line.strip())
+        
+        if current_field:
+            data[current_field] = ' '.join(current_value).strip()
+        
+        # 只保留有UT编号的有效文献
+        if 'UT' in data and data['UT'].startswith('WOS:'):
+            parsed_records.append(dict(data))
+    
+    return parsed_records
 
-# ====================== 2. 你要保留的 UT 清单（我已经帮你填好） ======================
-KEEP_UTS = {
-"WOS:001392437900002","WOS:001392453400002","WOS:001517227100001","WOS:001075331300001",
-"WOS:001483273300001","WOS:001483281300001","WOS:001419394400001","WOS:001590929100004",
-"WOS:001451451800001","WOS:001645745300001","WOS:001580019300001","WOS:001278997600001",
-"WOS:001095748700001","WOS:001132966400006","WOS:001087046600008","WOS:001179470400001",
-"WOS:001472754600001","WOS:001633989600001","WOS:001431690400001","WOS:001393351500001",
-"WOS:001528182500001","WOS:001277577800001","WOS:001622736400001","WOS:001399833200001",
-"WOS:001405925700018","WOS:001515253800001","WOS:001611384500001","WOS:001535716400001",
-"WOS:001560333300001","WOS:001586770800001","WOS:001208742800006","WOS:001054545300001",
-"WOS:001116391300001","WOS:001528246400001","WOS:001615523800002","WOS:001562898700001",
-"WOS:001524792900003","WOS:001617631400001","WOS:001595533100001","WOS:001370433700001",
-"WOS:001548978200001","WOS:001596883500044","WOS:001063259100001","WOS:001643518900001",
-"WOS:001525950600002","WOS:001559320900005","WOS:001643360600005","WOS:001626857700048",
-"WOS:001359508300001","WOS:001653321600004","WOS:001455103800001","WOS:001516016200001",
-"WOS:001356688800007","WOS:001210238400001","WOS:001494677700001","WOS:001603377600001",
-"WOS:001538926300008","WOS:001374093600001","WOS:001446517100015","WOS:001626405500001",
-"WOS:001556116800001","WOS:001654734800001","WOS:001578143800001","WOS:001264372200005",
-"WOS:001515007000001","WOS:001343170700001","WOS:001587521000023","WOS:001650673700001",
-"WOS:001531253300002","WOS:001040685700001","WOS:001488300900007","WOS:001617113600001",
-"WOS:001122891200001","WOS:001638828500001","WOS:001444164000001","WOS:001444355800001",
-"WOS:001646475400001","WOS:001301585100001","WOS:001376556300002","WOS:001180043200007",
-"WOS:001470676500001","WOS:001597792800001","WOS:001527428100001","WOS:001604889900001",
-"WOS:001653310200001","WOS:001593455300001","WOS:001234993500001","WOS:001074493700001",
-"WOS:001552001300014","WOS:001321132900001","WOS:001532712300001","WOS:001607345700003",
-"WOS:001516018700001","WOS:001570062500001","WOS:001062657100001","WOS:001444383700001",
-"WOS:001154709100003","WOS:001084687100001","WOS:001327710100002","WOS:001579793500001",
-"WOS:001549800800006","WOS:001339465800001","WOS:001562236300001","WOS:001256826000001",
-"WOS:001497324300001","WOS:001574528400001","WOS:000963639900006","WOS:001335433500001",
-"WOS:001643342200004","WOS:001005659000001","WOS:001407581600001","WOS:001178054000001",
-"WOS:001647695200001","WOS:001645989800007","WOS:001609181800001","WOS:001636213200001",
-"WOS:001610944100001","WOS:001623913200001","WOS:001436277100002","WOS:001549753300001",
-"WOS:001539585400001","WOS:001622542800020","WOS:001469038100001","WOS:001475937800001",
-"WOS:001251604700001","WOS:001622542800045","WOS:001643293300001","WOS:001650591800001",
-"WOS:001551870600020","WOS:001562391000001","WOS:001530665400001","WOS:001575624700001",
-"WOS:001108855100005","WOS:001654840800001","WOS:001578734000001","WOS:001539703100001",
-"WOS:001218265100001","WOS:001620882400001","WOS:001656528300002","WOS:001651855000001",
-"WOS:001376297800001","WOS:001555739200001","WOS:001192721900001","WOS:001323595500001",
-"WOS:001217305600001","WOS:001606446100002","WOS:001495061500003","WOS:001530799200028"
-}
+def save_to_csv(records, output_path):
+    """将解析结果保存为CSV文件"""
+    if not records:
+        print("没有解析到有效文献")
+        return
+    
+    # 创建输出目录
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    
+    # 获取所有出现过的字段
+    all_fields = set()
+    for record in records:
+        all_fields.update(record.keys())
+    
+    # 按常用字段排序
+    field_order = ['UT', 'TI', 'AU', 'AF', 'SO', 'PY', 'AB', 'DE', 'ID', 'CR', 'DI', 'C1', 'RP', 'TC', 'Z9']
+    fields = field_order + [f for f in sorted(all_fields) if f not in field_order]
+    
+    with open(output_path, 'w', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows(records)
 
-# ====================== 3. 运行！自动生成最终文件 ======================
-if __name__ == "__main__":
-    print("正在读取 savedrecs.txt...")
-    df = parse_wos_txt("savedrecs.txt")
+if __name__ == '__main__':
+    # 输入输出路径
+    input_file = 'savedrecs.txt'
+    output_file = '../processed/raw_records.csv'
     
-    print(f"原始文献总数：{len(df)}")
+    # 解析并保存
+    records = parse_wos_file(input_file)
+    save_to_csv(records, output_file)
     
-    # 自动筛选
-    df_final = df[df["UT"].isin(KEEP_UTS)]
-    
-    print(f"筛选后保留：{len(df_final)} 篇（符合 AIGC + 人文社科）")
-    
-    # 保存最终文件
-    df_final.to_csv("final_dataset.csv", index=False, encoding="utf-8-sig")
-    print("✅ 全部完成！")
-    print("✅ 已生成：final_dataset.csv")
-    print("✅ 直接拿去画图、写论文！")
+    # 输出统计信息（关键检查）
+    print(f"✅ 成功解析 {len(records)} 篇文献")
+    print(f"📄 输出文件：{output_file}")
