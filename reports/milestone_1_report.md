@@ -1,26 +1,32 @@
-# M1 Milestone Report: Data Preparation and Literature Screening
+# M1里程碑报告：数据准备与文献筛选
 
-## 1. Data Source
-Data was retrieved from the Web of Science Core Collection database. The search was conducted on May 25, 2026, covering the period from 2020 to 2025. The search query included terms related to AIGC, generative AI, large language models, and their applications in humanities and social sciences. A total of 692 relevant papers were retrieved.
+## 1. 数据来源
+本研究数据来源于Web of Science核心合集数据库。检索时间为2026年5月25日，时间范围为2020-2025年。检索式包含AIGC、生成式AI、大语言模型及其在人文社科领域应用的相关关键词，共检索到692篇相关文献。
 
-## 2. Literature Screening Methodology
-A systematic three-stage screening process was implemented:
-1. **Initial screening**: Exclude obviously irrelevant papers based on title analysis
-2. **Abstract screening**: Further evaluate relevance based on abstract content
-3. **Quality assessment**: Exclude non-academic documents such as book reviews and editorials
+## 2. 文献筛选方法
+本研究采用系统的三阶段筛选流程：
+1. **初筛**：基于标题分析排除明显不相关的文献
+2. **复筛**：基于摘要内容进一步评估文献相关性
+3. **质量评估**：排除书评、编者按等非学术文献
 
-Papers were excluded if they focused purely on medical, engineering, or economic applications without relevance to humanities and social sciences.
+若文献仅聚焦于医学、工程或经济领域的纯技术应用，而与人文社科主题无关，则予以剔除。
 
-## 3. Screening Results
-![PRISMA Flow Diagram](../outputs/figures/prisma_flow.png)
+## 3. 筛选结果
+![PRISMA筛选流程图](../outputs/figures/prisma_flow.png)
 
-A total of 270 papers were excluded during the screening process. The distribution of exclusion reasons is as follows:
-- E1 (Medical and biological applications): 154 papers
-- E4 (Pure humanities discussion without AIGC application): 57 papers
-- E3 (Economic and management applications): 33 papers
-- E2 (Engineering and technical applications): 26 papers
+筛选过程中共剔除270篇文献，剔除原因分布如下：
+- E1（医学与生物应用）：154篇
+- E4（纯人文讨论，无AIGC应用）：57篇
+- E3（经济与管理应用）：33篇
+- E2（工程与技术应用）：26篇
 
-Finally, 422 papers that meet the research criteria were included in the final analysis.
+最终有422篇符合研究标准的文献被纳入后续分析。
 
-## 4. Data Quality Assessment
-All included papers have complete bibliographic information, including unique Web of Science ID, title, authors, publication year, journal, abstract, keywords, DOI, and citation counts. No duplicate papers were found in the dataset. The data quality is sufficient for subsequent bibliometric analysis.
+## 4. 数据质量评估
+所有纳入文献均具有完整的书目信息，包括：
+- 唯一Web of Science标识号（UT）
+- 标题、作者、发表年份、期刊
+- 摘要与关键词
+- DOI与被引次数
+
+数据集中未发现重复文献，数据质量足以支持后续的文献计量分析。
