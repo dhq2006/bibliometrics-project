@@ -1,12 +1,12 @@
 version: "v0.1"
-date: "2026-03-28"
+date: "2026-05-27"
 database: "Web of Science Core Collection"
-time_window: "2015-01-01 to 2025-12-31"
+time_window: "2015-01-01 to 2026-05-27"
 document_types: ["Article", "Review"]
 languages: ["English"]
 wos_query: |
   TS=("generative AI" OR "AIGC" OR "generative artificial intelligence" OR "generative model" OR "large language model" OR "LLM" OR "GPT" OR "diffusion model" OR "GAN" OR "generative adversarial network" OR "foundation model")
   AND TS=("humanities" OR "social sciences" OR "digital humanities" OR "humanities computing" OR "social science research" OR "humanities research" OR "cultural heritage" OR "historical research" OR "linguistic research" OR "sociological research" OR "economic research" OR "educational research" OR "humanities data analysis" OR "text mining" OR "corpus analysis")
-  AND PY=2015-2025
+  AND PY=2015-2026
   AND DT=("Article" OR "Review")
   AND LA=English
